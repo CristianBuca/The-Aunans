@@ -53,11 +53,21 @@ The app is designed to consolidate all relevant information related to the commu
 
 ## **Design**
 
-
-
 ### **Colour Scheme**
 
+The colour scheme is based on The Aunans' banner colour aswell as the colour that represent the faction they belong to.
+
+![Colour scheme sample](/docs/Aunans color scheme.png)
+
+#0E174F
+#163E88
+#BA0C0C
+#D79717
+#F7E43C
+
 ### **Font Scheme**
+
+Open Sans and Roboto sans-serif based font families were used to maintain the tone of the game's website.
 
 ## **Structure**
 
@@ -112,6 +122,8 @@ Performance --links and screenshot--
 ## **Deployment**
 
 ## **Credits**
+
+*Colour pallete generated with [Colormind](http://colormind.io)
 
 ## **Acknowledgements**
 
