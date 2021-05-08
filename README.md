@@ -53,6 +53,8 @@ The app is designed to consolidate all relevant information related to the commu
 
 ## **Design**
 
+
+
 ### **Colour Scheme**
 
 ### **Font Scheme**
@@ -72,6 +74,30 @@ The app is designed to consolidate all relevant information related to the commu
 
 ## **Features**
 
+### **Landing Page**
+
+1. Hero Image with call to action for applicants.
+2. Statistics and ranking.
+3. Activities schedule and requirements for joining.
+4. Leadership.
+
+### **Guild info**
+
+1. Most important community achievement so far.
+2. Members roster.
+3. Other notable achievements.
+4. History.
+
+### **Gallery**
+
+1. Community images.
+2. Community videos.
+
+### **Guides**
+
+1. Strategy guides.
+2. Useful Resources.
+
 ## **Validation**
 
 HTML --links and screenshot--
@@ -88,6 +114,11 @@ Performance --links and screenshot--
 ## **Credits**
 
 ## **Acknowledgements**
+
+
+_This project is for educational use only and was created for the Code Institute Module of User Centric front end development_
+
+Developed by Cristian Buca
 
 
 
