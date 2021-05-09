@@ -52,7 +52,7 @@ The app is designed to consolidate all relevant information related to the commu
 11. As a site owner, I want new members to be able to submit an application to join the community.
 12. As a site owner, I want to convey accurate information to attract the right candidates for our roster.
 13. As a site owner, I want to showcase current achievements to new applicants.
-14. As a site owner, I want members to have access to activity information and maxize involvment.
+14. As a site owner, I want members to have access to activity information and maximize involvement.
 
 ## **Design**
 
@@ -90,10 +90,38 @@ Open Sans and Roboto sans-serif based font families were used to maintain the to
 
 ### **Landing Page**
 
-1. Hero Image with call to action for applicants.
-2. Statistics and ranking.
-3. Most important community achievement so far.
-4. Activities schedule and requirements for joining.
+#### 1. Hero Image with call to action for applicants.
+
+-- screenshot --
+
+*User stories solved by this feature:*
+
+User stories **6, 10, 11** are being satisfied by the presence of the **Join Us!** button and the application modal. 
+
+#### 2. Most important community achievement so far.
+
+-- screenshot --
+
+*User stories solved by this feature:*
+
+User stories **2, 3, 7, 12, 13, 14** are being satisfied by the current guild's latest achievements presented in this section.
+
+#### 3. Statistics and ranking.
+
+-- screenshot --
+
+*User stories solved by this feature:*
+
+User stories **3, 12** are being satisfied by the statistics present in this section.
+
+
+#### 4. Activities schedule and requirements for joining.
+
+-- screenshot --
+
+*User stories solved by this feature:*
+
+User stories **5, 6, 9, 11, 14** are satisfied by the information presented in this section and the **Join US!** button present at the bottom of the page.
 
 ### **Guild info**
 
@@ -113,7 +141,6 @@ Open Sans and Roboto sans-serif based font families were used to maintain the to
 2. Community videos.
 
 ## **Technologies Used**
-
 
 * **HTML5**
 * **CSS3**
