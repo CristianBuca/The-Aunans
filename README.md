@@ -1,9 +1,12 @@
+
 # **The-Aunans**
 --logo--
 
 --mockup--
 
 --Table of Contents--
+
+--Link to deployed website--
 
 ##  **Project Goals**
 * Showcase the Aunans Guild to the World of Warcraft community.
@@ -55,7 +58,7 @@ The app is designed to consolidate all relevant information related to the commu
 
 ### **Colour Scheme**
 
-The colour scheme is based on The Aunans' banner colour aswell as the colour that represent the faction they belong to.
+The colour scheme is based on The Aunans' banner colours and the colours representive of the faction they belong to.
 
 ![Colour scheme sample](/docs/Aunans color scheme.png)
 
@@ -71,16 +74,9 @@ Open Sans and Roboto sans-serif based font families were used to maintain the to
 
 ## **Structure**
 
-## **Wireframes**
+### **Wireframes**
 
---mobile--
-
---tablet--
-
---desktop--
-
-
-## **Technologies Used**
+### **Technologies Used**
 
 ## **Features**
 
@@ -88,25 +84,25 @@ Open Sans and Roboto sans-serif based font families were used to maintain the to
 
 1. Hero Image with call to action for applicants.
 2. Statistics and ranking.
-3. Activities schedule and requirements for joining.
-4. Leadership.
+3. Most important community achievement so far.
+4. Activities schedule and requirements for joining.
 
 ### **Guild info**
 
-1. Most important community achievement so far.
-2. Members roster.
-3. Other notable achievements.
-4. History.
+1. Leadership.
+2. History.
+3. Members roster.
+4. Other notable achievements.
+
+### **Resources**
+
+1. Strategy guides.
+2. Useful Resources.
 
 ### **Gallery**
 
 1. Community images.
 2. Community videos.
-
-### **Guides**
-
-1. Strategy guides.
-2. Useful Resources.
 
 ## **Validation**
 
