@@ -86,8 +86,6 @@ Open Sans and Roboto sans-serif based font families were used to maintain the to
 
 [Application Modal](https://github.com/CristianBuca/The-Aunans/blob/main/docs/wireframes/Join%20Us%20Modal.png)
 
-### **Technologies Used**
-
 ## **Features**
 
 ### **Landing Page**
@@ -114,6 +112,19 @@ Open Sans and Roboto sans-serif based font families were used to maintain the to
 1. Community images.
 2. Community videos.
 
+## **Technologies Used**
+
+
+* **HTML5**
+* **CSS3**
+* **Bootstrap v4.6**
+* **Github**
+* **[Github Desktop](https://desktop.github.com)**
+* **Git**
+* **VSCode**
+* **Font Awesome**
+* **Google Fonts**
+
 ## **Validation**
 
 HTML --links and screenshot--
@@ -127,9 +138,32 @@ Performance --links and screenshot--
 
 ## **Deployment**
 
+The website is hosted and deployed from Github. The steps taken for deployment were:
+
+1. Logged into my [Github](https://github.com) account,
+2. Selected the [Repository](https://github.com/CristianBuca/The-Aunans),
+3. Go to [Settings](https://github.com/CristianBuca/The-Aunans/settings),tab on the horizontal menu,
+4. Go to [Pages](https://github.com/CristianBuca/The-Aunans/settings/pages) tab on the vertical sub-menu,
+5. Selected the **Main Branch** from the drop-down menu under **Source**,
+6. Selected the **/(root)** folder where my **index.html** was located,
+7. Clicked **Save**,
+8. Once the page was refreshed I was presented with the link to the live website.
+
+--screenshot--
+
+Steps to follow for cloning this repository:
+
+1. Log into you [Github](https://github.com) account,
+2. Select the [Repository](https://github.com/CristianBuca/The-Aunans),
+3. Click on the drop-down menu title **Code** on the top right of the repository file tree,
+4. Copy the HTTPS address,
+5. In your Git Bash Terminal type *"git clone"* then paste the address.
+
+*Alternatively you can download the repository as ZIP or use [Github Desktop](https://desktop.github.com) the repository on you local machine*
+
 ## **Credits**
 
-*Colour pallete generated with [Colormind](http://colormind.io)
+* Colour pallete generated with [Colormind](http://colormind.io)
 
 ## **Acknowledgements**
 
