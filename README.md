@@ -160,12 +160,38 @@ User stories **2, 3, 12, 13,** are satisfied by the achievements showcase in thi
 ### **Resources**
 
 #### 1. Strategy guides.
+
+-- screenshot --
+
+*User stories solved by this feature:*
+
+User stories **2, 8, 14** are satisfied by the guides presented in this section.
+
 #### 2. Useful Resources.
+
+-- screenshot --
+
+*User stories solved by this feature:*
+
+User stories **7, 8, 14** are satisfied by the resources in this section.
 
 ### **Gallery**
 
 #### 1. Community images.
+
+-- screenshot --
+
+*User stories solved by this feature:*
+
+User stories **1, 2, 14** are satisfied by the community screenshot and pictures.
+
 #### 2. Community videos.
+
+-- screenshot --
+
+*User stories solved by this feature:*
+
+User stories **1, 2, 14** are satisfied by the community screenshot and pictures.
 
 ## **Technologies Used**
 
