@@ -76,6 +76,16 @@ Open Sans and Roboto sans-serif based font families were used to maintain the to
 
 ### **Wireframes**
 
+![Home Page](https://github.com/CristianBuca/The-Aunans/blob/main/docs/wireframes/Home%20Page.png)
+
+![Guild info](https://github.com/CristianBuca/The-Aunans/blob/main/docs/wireframes/Guild%20Info.png)
+
+![Resources](https://github.com/CristianBuca/The-Aunans/blob/main/docs/wireframes/Resources.png)
+
+![Gallery](https://github.com/CristianBuca/The-Aunans/blob/main/docs/wireframes/Gallery.png)
+
+![Application Modal](https://github.com/CristianBuca/The-Aunans/blob/main/docs/wireframes/Join%20Us%20Modal.png)
+
 ### **Technologies Used**
 
 ## **Features**
