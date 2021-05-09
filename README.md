@@ -60,7 +60,7 @@ The app is designed to consolidate all relevant information related to the commu
 
 The colour scheme is based on The Aunans' banner colours and the colours representive of the faction they belong to.
 
-![Colour scheme sample](/docs/Aunans color scheme.png)
+![Colour scheme sample](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Aunans%20color%20scheme.png)
 
 #0E174F
 #163E88
