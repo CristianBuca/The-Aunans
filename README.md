@@ -35,7 +35,7 @@ The app is designed to consolidate all relevant information related to the commu
 1. As a new user, I want to know more about the Aunans and their history.
 2. As a new user, I want to know what the community's focus is.
 3. As a new user, I want to see the communities progress and statistics.
-4. As a new user, I want to see a member roster.
+4. As a new user, I want to get familiar with the communities members.
 5. As a new user, I want to see when certain activities take place.
 6. As a new user, I want to see what the recruitment process is.
 7. As a new user, I want to access their social media platforms.
@@ -125,20 +125,47 @@ User stories **5, 6, 9, 11, 14** are satisfied by the information presented in t
 
 ### **Guild info**
 
-1. Leadership.
-2. History.
-3. Members roster.
-4. Other notable achievements.
+#### 1. Leadership.
+
+-- screenshot --
+
+*User stories solved by this feature:*
+
+User stories **1, 4, 12** are satisfied by the presentation of the leadership.
+
+#### 2. History.
+
+-- screenshot --
+
+*User stories solved by this feature:*
+
+User story **1** is satisfied by the *History* in this section.
+
+#### 3. Members roster.
+
+-- screenshot --
+
+*User stories solved by this feature:*
+
+User stories **1, 3** are being satisfied by the member roster.
+
+#### 4. Other notable achievements.
+
+-- screenshot --
+
+*User stories solved by this feature:*
+
+User stories **2, 3, 12, 13,** are satisfied by the achievements showcase in this section.
 
 ### **Resources**
 
-1. Strategy guides.
-2. Useful Resources.
+#### 1. Strategy guides.
+#### 2. Useful Resources.
 
 ### **Gallery**
 
-1. Community images.
-2. Community videos.
+#### 1. Community images.
+#### 2. Community videos.
 
 ## **Technologies Used**
 
