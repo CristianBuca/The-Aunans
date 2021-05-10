@@ -204,17 +204,18 @@ For ease of navigation on mobile devices especially, the navbar is fixed at the 
 -- screenshot --
 
 The footer includes links to the guild's social media platforms and satisfies user story **7**.
+
 ## **Technologies Used**
 
-* **HTML5**
-* **CSS3**
-* **Bootstrap v4.6**
-* **Github**
+* **[HTML5](https://html.spec.whatwg.org)**
+* **[CSS3](https://www.w3.org/Style/CSS/Overview.en.html)**
+* **[Bootstrap v4.6](https://getbootstrap.com)**
+* **[Github](https://github.com)**
 * **[Github Desktop](https://desktop.github.com)**
-* **Git**
-* **VSCode**
-* **Font Awesome**
-* **Google Fonts**
+* **[Git](https://git-scm.com)**
+* **[VSCode](https://code.visualstudio.com)**
+* **[Font Awesome](https://fontawesome.com)**
+* **[Google Fonts](https://fonts.google.com)**
 
 ## **Validation**
 
