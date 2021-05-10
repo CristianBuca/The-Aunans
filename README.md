@@ -220,11 +220,91 @@ The footer includes links to the guild's social media platforms and satisfies us
 ## **Validation**
 
 HTML --links and screenshot--
+
 CSS --links and screenshot--
+
 Accessibility --links and screenshot--
+
 Performance --links and screenshot--
 
 ## **Testing of User Stories**
+
+1. As a new user, I want to know more about the Aunans and their history.
+
+Feature | Action | Expected Result | Actual Result
+--- | --- | --- | --- 
+
+2. As a new user, I want to know what the community's focus is.
+
+Feature | Action | Expected Result | Actual Result
+--- | --- | --- | --- 
+
+3. As a new user, I want to see the communities progress and statistics.
+
+Feature | Action | Expected Result | Actual Result
+--- | --- | --- | --- 
+
+4. As a new user, I want to get familiar with the communities members.
+
+Feature | Action | Expected Result | Actual Result
+--- | --- | --- | --- 
+
+5. As a new user, I want to see when certain activities take place.
+
+Feature | Action | Expected Result | Actual Result
+--- | --- | --- | --- 
+
+6. As a new user, I want to see what the recruitment process is.
+
+Feature | Action | Expected Result | Actual Result
+--- | --- | --- | --- 
+
+7. As a new user, I want to access their social media platforms.
+
+Feature | Action | Expected Result | Actual Result
+--- | --- | --- | --- 
+
+8. As a regular user, I want to see what are the newest community updates.
+
+Feature | Action | Expected Result | Actual Result
+--- | --- | --- | --- 
+
+
+9. As a regular user, I want to access game guides suggested by community leaders.
+
+Feature | Action | Expected Result | Actual Result
+--- | --- | --- | --- 
+
+10. As a regular user, I want to see any community plans and activities I can be a part of.
+
+Feature | Action | Expected Result | Actual Result
+--- | --- | --- | --- 
+
+11. As a site owner, I want to attract new members to the community.
+
+Feature | Action | Expected Result | Actual Result
+--- | --- | --- | --- 
+
+12. As a site owner, I want new members to be able to submit an application to join the community.
+
+Feature | Action | Expected Result | Actual Result
+--- | --- | --- | --- 
+
+13. As a site owner, I want to convey accurate information to attract the right candidates for our roster.
+
+Feature | Action | Expected Result | Actual Result
+--- | --- | --- | --- 
+
+14. As a site owner, I want to showcase current achievements to new applicants.
+
+Feature | Action | Expected Result | Actual Result
+--- | --- | --- | --- 
+
+15. As a site owner, I want members to have access to activity information and maximize involvement.
+
+Feature | Action | Expected Result | Actual Result
+--- | --- | --- | --- 
+
 
 ## **Bugs**
 
