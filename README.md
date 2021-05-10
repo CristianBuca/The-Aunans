@@ -42,17 +42,17 @@ The app is designed to consolidate all relevant information related to the commu
 
 **Regular Users:**
 
-7. As a regular user, I want to see what are the newest community updates.
-8. As a regular user, I want to access game guides suggested by community leaders.
-9. As a regular user, I want to see any community plans and activities I can be a part of.
+8. As a regular user, I want to see what are the newest community updates.
+9. As a regular user, I want to access game guides suggested by community leaders.
+10. As a regular user, I want to see any community plans and activities I can be a part of.
 
 **Site Owner:**
 
-10. As a site owner, I want to attract new members to the community.
-11. As a site owner, I want new members to be able to submit an application to join the community.
-12. As a site owner, I want to convey accurate information to attract the right candidates for our roster.
-13. As a site owner, I want to showcase current achievements to new applicants.
-14. As a site owner, I want members to have access to activity information and maximize involvement.
+11. As a site owner, I want to attract new members to the community.
+12. As a site owner, I want new members to be able to submit an application to join the community.
+13. As a site owner, I want to convey accurate information to attract the right candidates for our roster.
+14. As a site owner, I want to showcase current achievements to new applicants.
+15. As a site owner, I want members to have access to activity information and maximize involvement.
 
 ## **Design**
 
@@ -197,8 +197,13 @@ User stories **1, 2, 15** are satisfied by the community screenshot and pictures
 
 -- screenshot --
 
-For ease of navigation on mobile devices especially, the navbar is fixed at the top of the screen and includes a button that enables application submission which is tied to the user stories **6, 10, 11**
+For ease of navigation on mobile devices especially, the navbar is fixed at the top of the screen and includes a button that enables application submission which is tied to the user stories **6, 10, 11**.
 
+### **Footer**
+
+-- screenshot --
+
+The footer includes links to the guild's social media platforms and satisfies user story **7**.
 ## **Technologies Used**
 
 * **HTML5**
