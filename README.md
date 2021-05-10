@@ -4,7 +4,46 @@
 
 --mockup--
 
---Table of Contents--
+- [**The-Aunans**](#--the-aunans--)
+  * [**Project Goals**](#--project-goals--)
+    + [**User Goals**](#--user-goals--)
+- [**User Experience**](#--user-experience--)
+  * [**User Stories**](#--user-stories--)
+  * [**Design**](#--design--)
+    + [**Colour Scheme**](#--colour-scheme--)
+    + [**Font Scheme**](#--font-scheme--)
+- [**Structure**](#--structure--)
+  * [**Wireframes**](#--wireframes--)
+  * [**Features**](#--features--)
+    + [**Landing Page**](#--landing-page--)
+      - [1. Hero Image with call to action for applicants.](#1-hero-image-with-call-to-action-for-applicants)
+      - [2. Most important community achievement so far.](#2-most-important-community-achievement-so-far)
+      - [3. Statistics and ranking.](#3-statistics-and-ranking)
+      - [4. Activities schedule and requirements for joining.](#4-activities-schedule-and-requirements-for-joining)
+    + [**Guild info**](#--guild-info--)
+      - [1. Leadership.](#1-leadership)
+      - [2. History.](#2-history)
+      - [3. Members roster.](#3-members-roster)
+      - [4. Other notable achievements.](#4-other-notable-achievements)
+    + [**Resources**](#--resources--)
+      - [1. Strategy guides.](#1-strategy-guides)
+      - [2. Useful Resources.](#2-useful-resources)
+    + [**Gallery**](#--gallery--)
+      - [1. Community images.](#1-community-images)
+      - [2. Community videos.](#2-community-videos)
+    + [**Navigation bar**](#--navigation-bar--)
+    + [**Footer**](#--footer--)
+  * [**Technologies Used**](#--technologies-used--)
+  * [**Validation**](#--validation--)
+  * [**Testing of User Stories**](#--testing-of-user-stories--)
+  * [**Bugs**](#--bugs--)
+  * [**Deployment**](#--deployment--)
+  * [**Credits**](#--credits--)
+  * [**Acknowledgements**](#--acknowledgements--)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 
 --Link to deployed website--
 
@@ -24,11 +63,11 @@
 * Ability to submit an application to join.
 * Find guides and useful links used by current members.
 
-## **User Experience**
+# **User Experience**
 
 The app is designed to consolidate all relevant information related to the community and it's activities in a mobile-friendly user interface.
 
-### **User Stories**
+## **User Stories**
 
 **New Users:** 
 
@@ -72,9 +111,9 @@ The colour scheme is based on The Aunans' banner colours and the colours represe
 
 Open Sans and Roboto sans-serif based font families were used to maintain the tone of the game's website.
 
-## **Structure**
+# **Structure**
 
-### **Wireframes**
+## **Wireframes**
 
 [Home Page](https://github.com/CristianBuca/The-Aunans/blob/main/docs/wireframes/Home%20Page.png)
 
@@ -336,6 +375,7 @@ Steps to follow for cloning this repository:
 ## **Credits**
 
 * Colour pallete generated with [Colormind](http://colormind.io)
+* Readme table of contents generated with [MarkdDown TOC](https://ecotrust-canada.github.io/markdown-toc/)
 
 ## **Acknowledgements**
 
