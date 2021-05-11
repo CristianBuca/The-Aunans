@@ -13,7 +13,7 @@
     + [**Colour Scheme**](#--colour-scheme--)
     + [**Font Scheme**](#--font-scheme--)
 - [**Structure**](#--structure--)
-  * [**Wireframes**](#--wireframes--)
+  * [**Wireframes**](#wireframes)
   * [**Features**](#--features--)
     + [**Landing Page**](#--landing-page--)
       - [1. Hero Image with call to action for applicants.](#1-hero-image-with-call-to-action-for-applicants)
