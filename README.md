@@ -376,6 +376,8 @@ Steps to follow for cloning this repository:
 
 * Colour pallete generated with [Colormind](http://colormind.io)
 * Readme table of contents generated with [MarkdDown TOC](https://ecotrust-canada.github.io/markdown-toc/)
+* Hero image was taken from [Wallpapper Flare](https://www.wallpaperflare.com)
+* Landing page GIF was taken from [DarkLegacyComics issue #635](https://www.darklegacycomics.com)
 
 ## **Acknowledgements**
 
