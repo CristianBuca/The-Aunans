@@ -121,7 +121,7 @@ Open Sans and Roboto sans-serif based font families were used to maintain the to
 
 [Resources](https://github.com/CristianBuca/The-Aunans/blob/main/docs/wireframes/Resources.png)
 
-[Gallery](https://github.com/CristianBuca/The-Aunans/blob/main/docs/wireframes/Gallery.png)
+[Gallery](https://github.com/CristianBuca/The-Aunans/blob/main/docs/wireframes/Gallery%20v2.png)
 
 [Application Modal](https://github.com/CristianBuca/The-Aunans/blob/main/docs/wireframes/Join%20Us%20Modal.png)
 
@@ -230,7 +230,7 @@ User stories **1, 2, 15** are satisfied by the community screenshot and pictures
 
 *User stories solved by this feature:*
 
-User stories **1, 2, 15** are satisfied by the community screenshot and pictures.
+User stories **1, 2, 15** are satisfied by the community videos.
 
 ### **Navigation bar**
 
