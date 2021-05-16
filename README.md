@@ -378,6 +378,10 @@ Steps to follow for cloning this repository:
 * Readme table of contents generated with [MarkdDown TOC](https://ecotrust-canada.github.io/markdown-toc/)
 * Hero image was taken from [Wallpapper Flare](https://www.wallpaperflare.com)
 * Landing page GIF was taken from [DarkLegacyComics issue #635](https://www.darklegacycomics.com)
+* Achievments widget provided by [WoWProgress](https://www.wowprogress.com)
+* Achievments banners, role breakdown graphs, members roster sourced from [World of Warcraft Armory](https://worldofwarcraft.com)
+* Progression rankings provided by [RadiderIO](https://raider.io)
+
 
 ## **Acknowledgements**
 
