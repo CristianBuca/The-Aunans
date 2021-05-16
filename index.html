@@ -43,20 +43,6 @@
         </nav>
         <!-- Navbar -->
 
-        <!-- Modal Start. Built with Bootstrap modal component, code inspired from Code Institute Bootstrap practical lesson; styled and modified to suit this app -->
-        <div class="moda" tabindex="-1" role="dialog" id="joinModal" style="display: none;" aria-hidden="true">
-            <div class="modal-dialog" role="document">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <h5 class="modal-title">Join The Aunans!</h5>
-                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                            <span aria-hidden="true">z</span>
-                        </button>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Modal End -->
     </header>
 
         <!-- Landing Page Start-->
@@ -157,6 +143,51 @@
     </footer>
         <!-- Footer -->
 
+        <!-- Modal Start. Built with Bootstrap modal component, code inspired from Code Institute Bootstrap practical lesson; styled and modified to suit this app -->
+     <div class="modal" tabindex="-1" role="dialog" id="joinModal" style="display: none;" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Join The Aunans!</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">x</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <form action="https://formdump.codeinstitute.net" method="POST">
+                        <div class="form-group">
+                            <label for="characterName">Main Character Name</label>
+                            <input type="text" class="form-control" id="characterName" placeholder="What is you Main's Name?" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="realm">Realm Name</label>
+                            <input type="text" class="form-control" id="realm" placeholder="On which Realm do you play?" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="emailAddress">Email Address</label>
+                            <input type="email" class="form-control" id="emailAddress" aria-describedby="emailHelp" placeholder="What is your Email Address" required>
+                            <small id="emailHelp" class="form-text text-muted">We won't share your info with anyone else</small>
+                        </div>
+                        <div class="form-group">
+                            <label for="availability">Which days can you attend the raid on?</label>
+                            <select multiple class="form-control" id="availability" aria-describedby="availabilityHelp" required>
+                                <option>Thursdays</option>
+                                <option>Mondays</option>
+                                <option>Weekends</option>
+                            </select>
+                            <small id="availabilityHelp" class="form-text text-muted">Hold down CTRL to select multiple choices</small>
+                        </div>
+                        <div class="form-group">
+                            <label for="otherComments">Anything else you would like to share?</label>
+                            <textarea class="form-control" id="otherComments" rows="3"></textarea>
+                        </div>
+                        <input type="submit" class="modalButton" value="Apply">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+        <!-- Modal End -->
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
