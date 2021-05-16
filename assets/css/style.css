@@ -8,6 +8,18 @@
     height: 80vh;
     width: 100%;
     background-repeat: no-repeat;
+    background-attachment: fixed;
     background-position: center center;
     background-size: cover;
+}
+
+.intro {
+    height: 80vh;
+}
+
+.landing-right img {
+    width: 80%;
+    position: absolute;
+    top: 50vh;
+    right: 0;
 }
