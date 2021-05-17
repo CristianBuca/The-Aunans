@@ -14,8 +14,8 @@
 
 <body>
     <header>
-        <!-- Navbar Start. Built with Bootstrap navbar component and customised to fit the needs of the app -->
-        <nav class="navbar navbar-dark bg-dark navbar-expand-sm">
+        <!-- Navbar Start. Built with Bootstrap navbar component and customised to fit the needs of the app-->
+        <nav class="navbar fixed-top navbar-dark bg-dark navbar-expand-sm">
             <a class="navbar-brand" href="index.html">
                 <img src="assets/img/aunans-logo.png" width="50" height="50" alt="The Aunans Logo">
             </a>
@@ -25,7 +25,7 @@
             </button>
 
             <div class="collapse navbar-collapse" id="NavDropDown">
-                <ul class="navbar=nav mr-auto">
+                <ul class="navbar-nav m-auto">
                     <li class="active nav-item">
                         <a class="nav-link" href="index.html">Home</a>
                     </li>
@@ -39,6 +39,9 @@
                         <a class="nav-link" href="gallery.html">Gallery</a>
                     </li>
                 </ul>
+            </div>
+            <div class="d-none d-sm-block">
+                <button type="button" class="btn btn-danger btn-joinUs" data-toggle="modal" data-target="#joinModal">Join Us!</button>
             </div>
         </nav>
         <!-- Navbar -->
