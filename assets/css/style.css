@@ -1,10 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&display=swap');
 
 
+/* Image styles */
 
 #hero-image {
     background-color: #0033ff;
-    background-image: url("../img/Hero-img.jpg");
+    background-image: url("../img/hero-img.jpg");
     height: 80vh;
     width: 100%;
     background-repeat: no-repeat;
@@ -18,8 +19,44 @@
 }
 
 .landing-right img {
-    width: 80%;
+    width: 100%;
     position: absolute;
     top: 50vh;
     right: 0;
+}
+
+/* .achievments img {
+    width: 100%;
+} */
+
+.galleryCarousel img {
+    height: 100vh;
+}
+
+#screens {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;
+}
+
+#screens img {
+    width: 100%;
+}
+
+/* Media queries */
+
+/* For medium screens up to 1000px  */
+
+@media screen and (max-width: 1000px) {
+    #screens {
+        column-count: 3;
+    }
+}
+
+/* For small screens up to 800px */
+@media screen  and (max-width: 800px) {
+    #screens {
+        column-count: 2;
+    }
 }
