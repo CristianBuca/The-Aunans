@@ -1,10 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&display=swap');
 
+/* General Colors */
+
+body {
+    background-color: #1a1a1a;
+}
+
+.divider {
+    background-color: #BA0C0C;
+    width: 75px;
+    height: 5px;
+}
 
 /* Image styles */
 
 #hero-image {
-    background-color: #0033ff;
+    background-color: #0E174F;
     background-image: url("../img/hero-img.jpg");
     height: 80vh;
     width: 100%;
@@ -14,19 +25,11 @@
     background-size: cover;
 }
 
-.intro {
-    height: 80vh;
-}
-
-.landing-right img {
+/* .landing-right img {
     width: 100%;
     position: absolute;
-    top: 50vh;
+    top: 30vh;
     right: 0;
-}
-
-/* .achievments img {
-    width: 100%;
 } */
 
 .galleryCarousel img {
@@ -40,9 +43,41 @@
     column-gap: 0;
 }
 
-#screens img {
+img {
     width: 100%;
 }
+
+/* Navbar Style */
+
+nav {
+    background-color: #1a1a1a;
+    border: solid;
+    border-width: 1px;
+    border-color:#ffc107;
+    border-radius: 20px;
+}
+
+nav .navbar-nav li a {
+    color: #ffc107 !important;
+}
+
+.navbar-brand {
+    width: 50px; 
+}
+
+#rankImg {
+    width: 169px;
+    height: 189px;
+}
+
+.intro {
+    height: 80vh;
+    padding-top: 20vh;
+    color:#f7e43c;
+}
+
+/* Column styles */
+
 
 /* Media queries */
 
