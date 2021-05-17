@@ -381,7 +381,8 @@ Steps to follow for cloning this repository:
 * Achievements widget provided by [WoWProgress](https://www.wowprogress.com)
 * Achievements banners, role breakdown graphs, members roster sourced from [World of Warcraft Armory](https://worldofwarcraft.com)
 * Progression rankings provided by [RaiderIO](https://raider.io)
-
+* Embeded videos from [FatbossTV Youtube Channel](https://www.youtube.com/c/FatbossTV/featured)
+* Boss logs provided by [Warcraft Logs](https://www.warcraftlogs.com)
 
 ## **Acknowledgements**
 
