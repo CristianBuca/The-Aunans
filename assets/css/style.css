@@ -4,6 +4,11 @@
 
 body {
     background-color: #1a1a1a;
+    color: #f7e43c;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #ffc107;
 }
 
 .divider {
@@ -12,12 +17,16 @@ body {
     height: 5px;
 }
 
+strong {
+    color: #ffc107;
+}
+
 /* Image styles */
 
 #hero-image {
     background-color: #0E174F;
     background-image: url("../img/hero-img.jpg");
-    height: 80vh;
+    height: 200vh;
     width: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -33,7 +42,7 @@ body {
 } */
 
 .galleryCarousel img {
-    height: 100vh;
+    height: 80vh;
 }
 
 #screens {
@@ -45,16 +54,20 @@ body {
 
 img {
     width: 100%;
+    /* border: solid;
+    border-width: 1px;
+    border-color: #ffc107;
+    border-radius: 20px; */
 }
 
 /* Navbar Style */
 
 nav {
     background-color: #1a1a1a;
-    border: solid;
+    /* border: solid;
     border-width: 1px;
     border-color:#ffc107;
-    border-radius: 20px;
+    border-radius: 20px; */
 }
 
 nav .navbar-nav li a {
@@ -71,13 +84,18 @@ nav .navbar-nav li a {
 }
 
 .intro {
-    height: 80vh;
-    padding-top: 20vh;
+    height: 90vh;
+    padding-top: 15vh;
     color:#f7e43c;
+    justify-items: center;
 }
 
 /* Column styles */
 
+#bottom-header {
+    position: absolute;
+    bottom: 100px;
+}
 
 /* Media queries */
 
