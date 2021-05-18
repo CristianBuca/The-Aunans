@@ -15,7 +15,7 @@
 <body>
     <header>
         <!-- Navbar Start. Built with Bootstrap navbar component and customised to fit the needs of the app-->
-        <nav class="navbar fixed-top navbar-dark bg-dark navbar-expand-sm container-xl">
+        <nav class="navbar navbar-dark fixed-top navbar-expand-sm">
             <a class="navbar-brand" href="index.html">
                 <img src="assets/img/aunans-logo.png" alt="The Aunans Logo">
             </a>
@@ -51,19 +51,15 @@
     <div class="container-xl" id="hero-image">
         <section class="intro">
             <div class="row">
-                <div class="col-4 landing-left">
-                    <h2 id="top-header">Me: "HEAL ME!!!"</h2>
-                    <hr class="divider">
-                    <h2 id="bottom-header">Raid Leader: "Move out of the fire..."</h1>
+                 <div class="col-12 d-block d-sm-none">
+                     <h1> The Aunans</h1>
+                    <button type="button" class="btn btn-danger btn-joinUs" data-toggle="modal" data-target="#joinModal">Join Us!</button>
                 </div>
-                 <div class="col-4 text-center">
-                    <button type="button" class="btn btn-danger btn-joinUs d-block d-sm-none" data-toggle="modal" data-target="#joinModal">Join Us!</button>
-                </div>
-                <div class="col-4 d-none d-md-block landing-right">
+                <div class="col-12 d-none d-md-block">
                         <!-- Credit for the gif to DarkLegacyComics issue #635 -->
                     <img src="assets/img/635.gif" alt="Funny exchange between raider and raid leader about damage done versus deaths">
                 </div>
-                </div>
+            </div>
         </section>
     </div>
         <!-- Landing Page End -->
