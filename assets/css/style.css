@@ -26,7 +26,7 @@ strong {
 #hero-image {
     background-color: #0E174F;
     background-image: url("../img/hero-img.jpg");
-    height: 200vh;
+    height: 100vh;
     width: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -60,6 +60,11 @@ img {
     border-radius: 20px; */
 }
 
+#rankImg {
+    width: 169px;
+    height: 189px;
+}
+
 /* Navbar Style */
 
 nav {
@@ -78,24 +83,16 @@ nav .navbar-nav li a {
     width: 50px; 
 }
 
-#rankImg {
-    width: 169px;
-    height: 189px;
-}
-
 .intro {
-    height: 90vh;
-    padding-top: 15vh;
+    height: 100vh;
+    padding-top: 5vh;
     color:#f7e43c;
-    justify-items: center;
+    top: 70vh;
+    background-color: rgba(0, 0, 0, 0.5)
+
 }
 
 /* Column styles */
-
-#bottom-header {
-    position: absolute;
-    bottom: 100px;
-}
 
 /* Media queries */
 
