@@ -105,7 +105,7 @@ The colour scheme is based on The Aunans' banner colours and the colours represe
 #163E88
 #BA0C0C
 #D79717
-#F7E43C
+#F7E43C #ffc107
 
 ### **Font Scheme**
 
@@ -255,6 +255,8 @@ The footer includes links to the guild's social media platforms and satisfies us
 * **[VSCode](https://code.visualstudio.com)**
 * **[Font Awesome](https://fontawesome.com)**
 * **[Google Fonts](https://fonts.google.com)**
+* **[Optimizilla](https://imagecompressor.com)**
+* **[WoW Hunter](https://wow-hunter.ro/tabard-creator/)**
 
 ## **Validation**
 
@@ -383,6 +385,7 @@ Steps to follow for cloning this repository:
 * Progression rankings provided by [RaiderIO](https://raider.io)
 * Embeded videos from [FatbossTV Youtube Channel](https://www.youtube.com/c/FatbossTV/featured)
 * Boss logs provided by [Warcraft Logs](https://www.warcraftlogs.com)
+* Code to change hamburger toggler from[StackOverflow](Bootstrap 4 Change Hamburger Toggler Color)
 
 ## **Acknowledgements**
 
