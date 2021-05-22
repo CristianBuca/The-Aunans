@@ -194,6 +194,11 @@ p {
     float: inline-start;
 }
 
+iframe {
+    width: 100%; 
+    height: 315;
+}
+
 /* Media queries */
 
 /* For medium screens up to 1000px  */
