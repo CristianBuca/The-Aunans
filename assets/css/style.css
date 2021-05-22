@@ -5,10 +5,13 @@
 body {
     color: #D79717;
     background-color: #1a1a1a;
+    font-family: Roboto, sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
+    font-family: Open Sans, sans-serif;
     color: #ffc107;
+    padding: 0 0 25px 0;
 }
 
 .divider {
@@ -52,11 +55,12 @@ strong {
 img {
     width: 100%;
     position: center center;
+    padding: 0 1%;
 }
 
 #comics img {
     width: 70%;
-    border-radius: 25px;
+    border-radius: 5px;
 }
 
 #rankImg {
@@ -68,10 +72,10 @@ img {
 
 nav {
     background-color: #1a1a1a;
-    /* border: solid;
+    border: solid;
     border-width: 1px;
-    border-color:#ffc107;
-    border-radius: 20px; */
+    border-color: #BA0C0C;
+    border-radius: 5px;
 }
 
 nav .navbar-nav li a {
@@ -83,15 +87,14 @@ nav .navbar-nav li a {
 }
 
 .intro {
-    height: 30vh;
-    padding-top: 5vh;
+    height: 35vh;
     color:#f7e43c;
-    top: 70vh;
-    background-color: rgba(0, 0, 0, 0.5);
+    top: 65vh;
+    background-color: rgba(0, 0, 0, 0.75);
     overflow: hidden;
 }
 
-                /* Code to change hamburger toggler from StackOverflow (full credit in readme.md */
+                /* Code to change hamburger toggler from StackOverflow (full credit in readme.md) */
 .navbar-dark .navbar-toggler-icon {
     background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,193,7, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
   }
@@ -124,8 +127,35 @@ footer i {
 
 /* Column Styles */
 
+.activities, #comics {
+    background-color: #0E174F;
+    background-image: url("../img/hero-img.jpg");
+    /* height: 100vh; */
+    /* width: 100%; */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
+
+.col-12 {
+    padding: 25px 0;
+}
+
 li {
     list-style: none;
+}
+
+ul {
+    padding: 0;
+}
+
+.overlay {
+    background-color:rgba(0, 0, 0, 0.75)
+}
+
+p {
+    padding: 0 5%;
 }
 
 /* Media queries */
