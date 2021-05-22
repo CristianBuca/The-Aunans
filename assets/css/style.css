@@ -28,6 +28,7 @@ strong {
     background-color: #BA0C0C;
 }
 
+
 /* Image styles */
 
 #hero-image {
@@ -68,6 +69,13 @@ img {
     height: 189px;
 }
 
+.otherachiev img {
+    border: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    border-color: #D79717;
+}
+
 /* Navbar Style */
 
 nav {
@@ -88,7 +96,6 @@ nav .navbar-nav li a {
 
 .intro {
     height: 35vh;
-    color:#f7e43c;
     top: 65vh;
     background-color: rgba(0, 0, 0, 0.75);
     overflow: hidden;
@@ -127,18 +134,33 @@ footer i {
 
 /* Column Styles */
 
+.leadership {
+    margin-top: 82px;
+}
+
 .activities, #comics {
     background-color: #0E174F;
     background-image: url("../img/hero-img.jpg");
-    /* height: 100vh; */
-    /* width: 100%; */
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center center;
     background-size: cover;
 }
 
-.col-12 {
+.history, .leadership {
+    background-color: #0E174F;
+    background-image: url("../img/4614523.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
+
+.opaq {
+    background-color: #1a1a1a;
+}
+
+.col-12, .col-6, .col-3 {
     padding: 25px 0;
 }
 
