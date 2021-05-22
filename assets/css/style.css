@@ -56,7 +56,7 @@ strong {
 img {
     width: 100%;
     position: center center;
-    padding: 0 1%;
+    padding: 0 2%;
 }
 
 #comics img {
@@ -69,7 +69,7 @@ img {
     height: 189px;
 }
 
-.otherachiev img {
+.otherachiev img, iframe {
     border: solid;
     border-width: 1px;
     border-radius: 5px;
@@ -134,7 +134,7 @@ footer i {
 
 /* Column Styles */
 
-.leadership {
+.leadership, .strategy {
     margin-top: 82px;
 }
 
@@ -180,6 +180,20 @@ p {
     padding: 0 5%;
 }
 
+.classLinks {
+    background-color: #0E174F;
+    background-image: url("../img/4614528.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+}
+
+.classLinks img {
+    float: inline-start;
+    
+}
 /* Media queries */
 
 /* For medium screens up to 1000px  */
