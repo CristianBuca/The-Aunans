@@ -33,7 +33,7 @@ strong {
 
 #hero-image {
     background-color: #0E174F;
-    background-image: url("../img/hero-img.jpg");
+    background-image: url("../img/Hero-img.jpg");
     height: 100vh;
     width: 100%;
     background-repeat: no-repeat;
@@ -140,7 +140,7 @@ footer i {
 
 .activities, #comics {
     background-color: #0E174F;
-    background-image: url("../img/hero-img.jpg");
+    background-image: url("../img/Hero-img.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center center;
