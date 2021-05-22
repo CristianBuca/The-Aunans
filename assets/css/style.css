@@ -65,7 +65,7 @@ img {
 }
 
 #rankImg {
-    width: 169px;
+    width: 189px;
     height: 189px;
 }
 
@@ -192,8 +192,8 @@ p {
 
 .classLinks img {
     float: inline-start;
-    
 }
+
 /* Media queries */
 
 /* For medium screens up to 1000px  */
