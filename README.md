@@ -265,6 +265,7 @@ The footer includes links to the guild's social media platforms and satisfies us
 ## **Validation**
 
 ### HTML
+
 ![Home Page HTML Validation](https://github.com/CristianBuca/The-Aunans/tree/main/docs/Validation/html/index-html-validation.png)
 
 ![Guild Info Page HTML Validation](https://github.com/CristianBuca/The-Aunans/tree/main/docs/Validation/html/guildinfo-html-validation.png)
@@ -273,7 +274,21 @@ The footer includes links to the guild's social media platforms and satisfies us
 
 ![Gallery Page HTML Validation](https://github.com/CristianBuca/The-Aunans/tree/main/docs/Validation/html/gallery-html-validation.png)
 
-Accessibility --links and screenshot--
+### CSS
+
+![CSS Validation]((https://github.com/CristianBuca/The-Aunans/tree/main/docs/Validation/css/css-validation.png)
+
+### Accessibility Evaluation
+
+![Accessibility Evalution Home Page]((https://github.com/CristianBuca/The-Aunans/tree/main/docs/Validation/accessibility/index-wave-eval.png)
+
+![Accessibility Evalution Guild Info Page]((https://github.com/CristianBuca/The-Aunans/tree/main/docs/Validation/accessibility/guildinfo-wave-eval.png)
+
+
+![Accessibility Evalution Resources Page]((https://github.com/CristianBuca/The-Aunans/tree/main/docs/Validation/accessibility/resources-wave-eval.png)
+
+![Accessibility Evalution Gallery Page]((https://github.com/CristianBuca/The-Aunans/tree/main/docs/Validation/accessibility/gallery-wave-eval.png)
+
 
 Performance --links and screenshot--
 
