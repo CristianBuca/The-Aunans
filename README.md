@@ -264,9 +264,14 @@ The footer includes links to the guild's social media platforms and satisfies us
 
 ## **Validation**
 
-HTML --links and screenshot--
+### HTML
+![Home Page HTML Validation](https://github.com/CristianBuca/The-Aunans/tree/main/docs/Validation/html/index-html-validation.png)
 
-CSS --links and screenshot--
+![Guild Info Page HTML Validation](https://github.com/CristianBuca/The-Aunans/tree/main/docs/Validation/html/guildinfo-html-validation.png)
+
+![Resources Page HTML Validation](https://github.com/CristianBuca/The-Aunans/tree/main/docs/Validation/html/resources-html-validation.png)
+
+![Gallery Page HTML Validation](https://github.com/CristianBuca/The-Aunans/tree/main/docs/Validation/html/gallery-html-validation.png)
 
 Accessibility --links and screenshot--
 
