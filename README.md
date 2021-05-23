@@ -42,10 +42,6 @@
   * [**Credits**](#credits)
   * [**Acknowledgements**](#acknowledgements)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
-
 --Link to deployed website--
 
 # **User Experience**
@@ -382,6 +378,23 @@ Feature | Action | Expected Result | Actual Result
 
 ## **Bugs**
 
+* **Bug:** Custom CSS for Bootstrap components wasn't being loaded corectly.
+* **Fix:** Move the CSS stylesheet link below the Bootstrap stylesheet link in headers.
+* **Bug:** Low performance score in Lighthouse tests.
+* **Fix:** Compress and optimise all images for web application.
+* **Bug:** HTML Validation flag inline styling on iframe components.
+* **Fix:** Move iframe styling to CSS stylesheet.
+* **Bug:** HTML Validation flag the use of forward slashes on image paths.
+* **Fix:** Replace all forward slashes with backslashes.
+* **Bug:** HTML Validation flag white spaces in the names of some images.
+* **Fix:** Reformat image names.
+* **Bug:** CSS Validation flag redundant code in image styling.
+* **Fix:** Remove the code from the stylesheet.
+* **Bug:** CSS Validation flag missing unit in iframe style.
+* **Fix:** Add the correct unit of measure in iframe style.
+* **Bug:** Low Best Practices Lighthouse score due to low resolution image being displayed on medium screens.
+* **Fix:** Improve score by setting the image to only be displayed on small screens and replaced by higher resolution image on medium screens sizes and up.
+
 ## **Deployment**
 
 The website is hosted and deployed from Github. The steps taken for deployment were:
@@ -409,16 +422,17 @@ Steps to follow for cloning this repository:
 
 ## **Credits**
 
-* Colour pallete generated with [Colormind](http://colormind.io)
-* Readme table of contents generated with [MarkdDown TOC](https://ecotrust-canada.github.io/markdown-toc/)
-* Hero image was taken from [Wallpapper Flare](https://www.wallpaperflare.com)
-* Landing page GIF was taken from [DarkLegacyComics issue #635](https://www.darklegacycomics.com)
-* Achievements widget provided by [WoWProgress](https://www.wowprogress.com)
-* Achievements banners, role breakdown graphs, members roster sourced from [World of Warcraft Armory](https://worldofwarcraft.com)
-* Progression rankings provided by [RaiderIO](https://raider.io)
-* Embeded videos from [FatbossTV Youtube Channel](https://www.youtube.com/c/FatbossTV/featured)
-* Boss logs provided by [Warcraft Logs](https://www.warcraftlogs.com)
-* Code to change hamburger toggler from[StackOverflow](Bootstrap 4 Change Hamburger Toggler Color)
+* Colour pallete generated with [Colormind](http://colormind.io).
+* Readme table of contents generated with [MarkdDown TOC](https://ecotrust-canada.github.io/markdown-toc/).
+* Hero image was taken from [Wallpapper Flare](https://www.wallpaperflare.com).
+* Landing page GIF was taken from [DarkLegacyComics issue #635](https://www.darklegacycomics.com).
+* Achievements widget provided by [WoWProgress](https://www.wowprogress.com).
+* Achievements banners, role breakdown graphs, members roster sourced from [World of Warcraft Armory](https://worldofwarcraft.com).
+* Progression rankings provided by [RaiderIO](https://raider.io).
+* Embeded videos from [FatbossTV Youtube Channel](https://www.youtube.com/c/FatbossTV/featured).
+* Boss logs provided by [Warcraft Logs](https://www.warcraftlogs.com).
+* Solution to change hamburger toggler color from [StackOverflow](https://stackoverflow.com/questions/42586729/bootstrap-4-change-hamburger-toggler-color).
+* Solution to for variable size images in carousel from [StackOverflow](https://stackoverflow.com/questions/13391566/twitter-bootstrap-carousel-different-height-images-cause-bouncing-arrows) 
 
 ## **Acknowledgements**
 
