@@ -90,8 +90,7 @@ The app is designed to consolidate all relevant information related to the commu
 11. As a site owner, I want to attract new members to the community.
 12. As a site owner, I want new members to be able to submit an application to join the community.
 13. As a site owner, I want to convey accurate information to attract the right candidates for our roster.
-14. As a site owner, I want to showcase current achievements to new applicants.
-15. As a site owner, I want members to have access to activity information and maximize involvement.
+14. As a site owner, I want members to have access to activity information and maximize involvement.
 
 ## **Design**
 
@@ -135,7 +134,7 @@ Open Sans and Roboto sans-serif based font families were used to maintain the to
 
 *User stories solved by this feature:*
 
-User stories **6, 10, 11** are being satisfied by the presence of the **Join Us!** button and the application modal. 
+User stories **6, 12** are being satisfied by the presence of the **Join Us!** button and the application modal. 
 
 #### 2. Most important community achievement so far.
 
@@ -143,7 +142,7 @@ User stories **6, 10, 11** are being satisfied by the presence of the **Join Us!
 
 *User stories solved by this feature:*
 
-User stories **2, 3, 7, 12, 13, 14** are being satisfied by the current guild's latest achievements presented in this section.
+User stories **2, 3, 7, 11, 13** are being satisfied by the current guild's latest achievements presented in this section.
 
 #### 3. Statistics and ranking.
 
@@ -151,7 +150,7 @@ User stories **2, 3, 7, 12, 13, 14** are being satisfied by the current guild's 
 
 *User stories solved by this feature:*
 
-User stories **3, 12** are being satisfied by the statistics present in this section.
+User stories **3, 11** are being satisfied by the statistics present in this section.
 
 
 #### 4. Activities schedule and requirements for joining.
@@ -160,7 +159,7 @@ User stories **3, 12** are being satisfied by the statistics present in this sec
 
 *User stories solved by this feature:*
 
-User stories **5, 6, 9, 11, 14** are satisfied by the information presented in this section and the **Join US!** button present at the bottom of the page.
+User stories **5, 6, 9, 10, 14** are satisfied by the information presented in this section.
 
 ### **Guild info**
 
@@ -186,7 +185,7 @@ User story **1** is satisfied by the *History* in this section.
 
 *User stories solved by this feature:*
 
-User stories **1, 3** are being satisfied by the member roster.
+User stories **1, 3, 4** are being satisfied by the member roster.
 
 #### 4. Other notable achievements.
 
@@ -194,7 +193,7 @@ User stories **1, 3** are being satisfied by the member roster.
 
 *User stories solved by this feature:*
 
-User stories **2, 3, 13, 14,** are satisfied by the achievements showcase in this section.
+User stories **2, 3, 13** are satisfied by the achievements showcase in this section.
 
 ### **Resources**
 
@@ -204,7 +203,7 @@ User stories **2, 3, 13, 14,** are satisfied by the achievements showcase in thi
 
 *User stories solved by this feature:*
 
-User stories **2, 9, 15** are satisfied by the guides presented in this section.
+User stories **2, 8, 9** are satisfied by the guides presented in this section.
 
 #### 2. Useful Resources.
 
@@ -212,7 +211,7 @@ User stories **2, 9, 15** are satisfied by the guides presented in this section.
 
 *User stories solved by this feature:*
 
-User stories **8, 9, 15** are satisfied by the resources in this section.
+User stories **8, 9** are satisfied by the resources in this section.
 
 ### **Gallery**
 
@@ -222,7 +221,7 @@ User stories **8, 9, 15** are satisfied by the resources in this section.
 
 *User stories solved by this feature:*
 
-User stories **1, 2, 15** are satisfied by the community screenshot and pictures.
+User stories **1, 2** are satisfied by the community screenshot and pictures.
 
 #### 2. Community videos.
 
@@ -230,13 +229,13 @@ User stories **1, 2, 15** are satisfied by the community screenshot and pictures
 
 *User stories solved by this feature:*
 
-User stories **1, 2, 15** are satisfied by the community videos.
+User stories **1, 2** are satisfied by the community videos.
 
 ### **Navigation bar**
 
 -- screenshot --
 
-For ease of navigation on mobile devices especially, the navbar is fixed at the top of the screen and includes a button that enables application submission which is tied to the user stories **6, 10, 11**.
+For ease of navigation on mobile devices especially, the navbar is fixed at the top of the screen and includes a button that enables application submission which is tied to the user stories **6, 11**.
 
 ### **Footer**
 
@@ -299,81 +298,101 @@ The footer includes links to the guild's social media platforms and satisfies us
 
 ## **Testing of User Stories**
 
-1. As a new user, I want to know more about the Aunans and their history.
+### 1. As a new user, I want to know more about the Aunans and their history.
+
+|Feature | Action | Expected Result | Actual Result |
+| --- | --- | --- | --- |
+| Guild Info, History, Members Roster sections on Guild Info page | Click on Guild Info link in the navigation menu. Scroll down trough the sections | To find information about the guild and it's history | Works as expected |
+| Image Gallery and Community Videos sections on Gallery page | Click on Gallery link in the navigation menu. Scroll trough the sections | To find images and videos from the community | Works as expected |
+
+### 2. As a new user, I want to know what the community's focus is.
+
+| Feature | Action | Expected Result | Actual Result |
+| --- | --- | --- | --- |
+|Important achievements and rankings section on Homepage outline the PVE focus of the Guild | Scroll to the ranking and achievement presented on Homepage | To find content related to the community's main focus | Works as expected |
+| Other achievements section on Guild Info page offer more information related to past activities | Click on Guild Info link in navigation menu. Scroll to the bottom to the last section | To find content related to the guild's past activities | Works as expected |
+| Strategy guides section in Resources page outlines the objective the team is focusing on | Click on the Resources link in navigation menu. Watch the strategy guides for the current content the guild is exploring | To find information regarding the main activity focus of the community | Works as expected |
+| Community images and videos sections on the Gallery Page offer more context to the past activities of the members | Click on the Gallery link in the navigation menu. Watch the boss kill videos and the images posted by members | To see what type of activities the members took part in | Works as expected |
+
+### 3. As a new user, I want to see the community's progress and statistics.
 
 Feature | Action | Expected Result | Actual Result
---- | --- | --- | --- 
-
-2. As a new user, I want to know what the community's focus is.
-
-Feature | Action | Expected Result | Actual Result
---- | --- | --- | --- 
-
-3. As a new user, I want to see the communities progress and statistics.
-
-Feature | Action | Expected Result | Actual Result
---- | --- | --- | --- 
+--- | --- | --- | ---
+Important achievements and rankings section on Homepage shows current progress | Scroll down to the achievements section | To see achievments and rankings | Works as expected
+Roster overviews provide statistics about the guild's composition | Scroll down to the statistics section | To find statistics about the guild | Works as expected
+Members Roster on the Guild Info page provides additional statistics about the guild's composition | Click on the Guild Info link in the navigation menu. Scroll down to the members roster | To find more context for the statistics of the guild | Works as expected |
 
 4. As a new user, I want to get familiar with the communities members.
 
 Feature | Action | Expected Result | Actual Result
 --- | --- | --- | --- 
+Leadership section on Guild Info page presents the guild master and first officer | Click on the Guild Info link in the navigation menu | To find out who the guild's leader are | Works as expected
+Members Roster section in the Guild Info page list the memmbers of the guild, their class, level and specialisations | Scroll down to the Members Roster section | To find information about other members | Works as expected
 
 5. As a new user, I want to see when certain activities take place.
 
 Feature | Action | Expected Result | Actual Result
 --- | --- | --- | --- 
+Raiding Schedule at the bottom of Homepage | Scroll down to the activities schedule | To see what days and time the guild is organising raids | Works as expected
 
 6. As a new user, I want to see what the recruitment process is.
 
 Feature | Action | Expected Result | Actual Result
 --- | --- | --- | --- 
+The call to action button on the Landing Page (on small screens) and on the navigation menu (medium screens and up) linking to the application modal provides a way for the user to apply for recruitment | Click on the call to action button, fill in information in the modal | To be able to apply to join the guild | Works as expected
+The raiding schedule and attendance requirements provide information about the recruitment process | Scroll down to view the raiding schedule and attendance requirements | To find more information about the recruitment requirements | Works as exoected
 
 7. As a new user, I want to access their social media platforms.
 
 Feature | Action | Expected Result | Actual Result
 --- | --- | --- | --- 
+The footer on each page contains links to guild social media | Scroll to the bottom of any page and click on the social media icons | To be able to access the guild's social media | Works as expected
 
 8. As a regular user, I want to see what are the newest community updates.
 
 Feature | Action | Expected Result | Actual Result
 --- | --- | --- | --- 
-
+Strategy guides section on Resources page provides the latest strategy the raid team is pursuing | Click on the link to the Resources page in the navigation menu | To find info the raid leader wishes his team to know about the kill strategies| Works as expected
+Battle logs on the Resources page provides latest combat breakdowns| Click on the link to the Resources page in the navigation menu. Scroll down to useful resources section | To find latest combat logs | Works as expected
 
 9. As a regular user, I want to access game guides suggested by community leaders.
 
 Feature | Action | Expected Result | Actual Result
 --- | --- | --- | --- 
+Strategy guides section on Resources page provides the latest strategy the raid team is pursuing | Click on the link to the Resources page in the navigation menu | To find info the raid leader wishes his team to know about the kill strategies| Works as expected
+Class guides on the Resources page provides links to usefull class guides | Click on the link to the Resources page in the navigation menu. Scroll down to useful resources section | To find class guides | Works as expected
 
 10. As a regular user, I want to see any community plans and activities I can be a part of.
 
 Feature | Action | Expected Result | Actual Result
 --- | --- | --- | --- 
+Raiding schedule on Landing page provides info about organised events member can join | Scroll down to the activities schedule | To see when organised events take place | Works as expected
 
 11. As a site owner, I want to attract new members to the community.
 
 Feature | Action | Expected Result | Actual Result
 --- | --- | --- | --- 
+Rankings and most important achievemets on the Homepage serve to attract new members that share the guild's interest | Scroll down to view the latest achievments and the guild's rank in PVE progression | To showcase the guild's progress and achievments | Works as expected
 
 12. As a site owner, I want new members to be able to submit an application to join the community.
 
 Feature | Action | Expected Result | Actual Result
 --- | --- | --- | --- 
+Inspiring faction Hero Image and call to arms button serve in attracting new members | Click on the call to arms button and fill up the application form | To be able to apply to the guild | Works as expected
 
 13. As a site owner, I want to convey accurate information to attract the right candidates for our roster.
 
 Feature | Action | Expected Result | Actual Result
 --- | --- | --- | --- 
+Achievements section on Home Page showcases the level at which the guild is operating and implying certain performance requirements in PVE content | Scroll down to the achievements section | To showcase current skill-level of the raid team | Works as expected
+Leadership section on the Guild Info page | Click on the Guild Info link in the navigation menu | To showcase the leadership's gear | Works as expected
+Other achievements section on the Guild Info page | Click on the Guild Info link in the navigation menu. Scroll to the bottom of the page | To showcase other in-game achievements | Works as expected
 
-14. As a site owner, I want to showcase current achievements to new applicants.
-
-Feature | Action | Expected Result | Actual Result
---- | --- | --- | --- 
-
-15. As a site owner, I want members to have access to activity information and maximize involvement.
+14. As a site owner, I want members to have access to activity information and maximize involvement.
 
 Feature | Action | Expected Result | Actual Result
 --- | --- | --- | --- 
+|Raiding schedule on Landing page provides info about organised events member can join | Scroll down to the activities schedule | To present when organised events take place | Works as expected
 
 
 ## **Bugs**
