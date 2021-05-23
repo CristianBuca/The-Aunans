@@ -1,6 +1,7 @@
 
 # **The-Aunans**
---logo--
+
+![The Aunans Logo](https://github.com/CristianBuca/The-Aunans/blob/main/assets/img/aunans-logo.png)
 
 --mockup--
 
@@ -47,6 +48,13 @@
 
 --Link to deployed website--
 
+# **User Experience**
+
+The app is designed to consolidate all relevant information related to the community and it's activities in a mobile-friendly user interface.
+
+# **Strategy**
+
+
 ##  **Project Goals**
 * Showcase the Aunans Guild to the World of Warcraft community.
 * Showcase Guild achievements.
@@ -62,10 +70,6 @@
 * Find the current event time-table.
 * Ability to submit an application to join.
 * Find guides and useful links used by current members.
-
-# **User Experience**
-
-The app is designed to consolidate all relevant information related to the community and it's activities in a mobile-friendly user interface.
 
 ## **User Stories**
 
@@ -248,15 +252,15 @@ The footer includes links to the guild's social media platforms and satisfies us
 
 * **[HTML5](https://html.spec.whatwg.org)**
 * **[CSS3](https://www.w3.org/Style/CSS/Overview.en.html)**
-* **[Bootstrap v4.6](https://getbootstrap.com)**
-* **[Github](https://github.com)**
-* **[Github Desktop](https://desktop.github.com)**
-* **[Git](https://git-scm.com)**
-* **[VSCode](https://code.visualstudio.com)**
-* **[Font Awesome](https://fontawesome.com)**
-* **[Google Fonts](https://fonts.google.com)**
-* **[Optimizilla](https://imagecompressor.com)**
-* **[WoW Hunter](https://wow-hunter.ro/tabard-creator/)**
+* **[Bootstrap v4.6](https://getbootstrap.com)** Components for the navbar, "Join US" modal, image carousel, grid system were taken from the Bootstrap library.
+* **[Github](https://github.com)** For storing my repository.
+* **[Github Desktop](https://desktop.github.com)** For managing syncronisations between local and cloud-stored repositories.
+* **[Git](https://git-scm.com)** For version control.
+* **[VSCode](https://code.visualstudio.com)** IDE for writing code.
+* **[Font Awesome](https://fontawesome.com)** Provided the icons for social media links.
+* **[Google Fonts](https://fonts.google.com)** Roboto and Open Sans were used as default fonts for the web application.
+* **[Optimizilla](https://imagecompressor.com)** To optimise images for web applications.
+* **[WoW Hunter](https://wow-hunter.ro/tabard-creator/)** For logo design.
 
 ## **Validation**
 
