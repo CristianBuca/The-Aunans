@@ -276,29 +276,29 @@ The footer includes links to the guild's social media platforms and satisfies us
 
 ### CSS
 
-![CSS Validation]((https://github.com/CristianBuca/The-Aunans/tree/main/docs/Validation/css/css-validation.png)
+![CSS Validation](https://github.com/CristianBuca/The-Aunans/tree/main/docs/Validation/css/css-validation.png)
 
 ### Accessibility Evaluation
 
-![Home Page Accessibility Evaluation]((https://github.com/CristianBuca/The-Aunans/tree/main/docs/Validation/accessibility/index-wave-eval.png)
+![Home Page Accessibility Evaluation](https://github.com/CristianBuca/The-Aunans/tree/main/docs/Validation/accessibility/index-wave-eval.png)
 
-![Guild Info Page Accessibility Evaluation]((https://github.com/CristianBuca/The-Aunans/tree/main/docs/Validation/accessibility/guildinfo-wave-eval.png)
+![Guild Info Page Accessibility Evaluation](https://github.com/CristianBuca/The-Aunans/tree/main/docs/Validation/accessibility/guildinfo-wave-eval.png)
 
 
-![Resources Page Accessibility Evaluation]((https://github.com/CristianBuca/The-Aunans/tree/main/docs/Validation/accessibility/resources-wave-eval.png)
+![Resources Page Accessibility Evaluation](https://github.com/CristianBuca/The-Aunans/tree/main/docs/Validation/accessibility/resources-wave-eval.png)
 
-![Gallery Page Accessibility Evaluation]((https://github.com/CristianBuca/The-Aunans/tree/main/docs/Validation/accessibility/gallery-wave-eval.png)
+![Gallery Page Accessibility Evaluation](https://github.com/CristianBuca/The-Aunans/tree/main/docs/Validation/accessibility/gallery-wave-eval.png)
 
 ### Performace Tests
 
-![Home Page Lighthouse Test]((https://github.com/CristianBuca/The-Aunans/tree/main/docs/Validation/Lighthouse/index-lighthouse-test.png)
+![Home Page Lighthouse Test](https://github.com/CristianBuca/The-Aunans/tree/main/docs/Validation/Lighthouse/index-lighthouse-test.png)
 
-![Guild Info Page Lighthouse Test]((https://github.com/CristianBuca/The-Aunans/tree/main/docs/Validation/Lighthousse/guildinfo-lighthouse-test.png)
+![Guild Info Page Lighthouse Test](https://github.com/CristianBuca/The-Aunans/tree/main/docs/Validation/Lighthousse/guildinfo-lighthouse-test.png)
 
-![Resources Page Lighthouse Test]((https://github.com/CristianBuca/The-Aunans/tree/main/docs/Validation/Lighthousse/resources-lighthouse-test.png)
+![Resources Page Lighthouse Test](https://github.com/CristianBuca/The-Aunans/tree/main/docs/Validation/Lighthousse/resources-lighthouse-test.png)
 
 
-![Gallery Page Lighthouse Test]((https://github.com/CristianBuca/The-Aunans/tree/main/docs/Validation/Lighthousse/gallery-lighthouse-test.png)
+![Gallery Page Lighthouse Test](https://github.com/CristianBuca/The-Aunans/tree/main/docs/Validation/Lighthousse/gallery-lighthouse-test.png)
 
 
 ## **Testing of User Stories**
