@@ -3,7 +3,7 @@
 
 ![The Aunans Logo](https://github.com/CristianBuca/The-Aunans/blob/main/assets/img/aunans-logo.png)
 
---mockup--
+![Responsive Design Mockup](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/mockup/responsive-mockup.png)
 
 - [**The-Aunans**](#the-aunans)
   * [**Project Goals**](#project-goals)
@@ -276,7 +276,7 @@ The footer includes links to the guild's social media platforms and satisfies us
 
 ### CSS
 
-![CSS Validation](https://github.com/CristianBuca/The-Aunans/blob/main/blob/Validation/css/css-validation.png)
+![CSS Validation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/css/css-validation.png)
 
 ### Accessibility Evaluation
 
@@ -293,12 +293,12 @@ The footer includes links to the guild's social media platforms and satisfies us
 
 ![Home Page Lighthouse Test](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/Lighthouse/index-lighthouse-test.png)
 
-![Guild Info Page Lighthouse Test](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/Lighthousse/guildinfo-lighthouse-test.png)
+![Guild Info Page Lighthouse Test](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/Lighthouse/guildinfo-lighthouse-test.png)
 
-![Resources Page Lighthouse Test](https://github.com/CristianBuca/The-Aunans/blob//main/docs/Validation/Lighthousse/resources-lighthouse-test.png)
+![Resources Page Lighthouse Test](https://github.com/CristianBuca/The-Aunans/blob//main/docs/Validation/Lighthouse/resources-lighthouse-test.png)
 
 
-![Gallery Page Lighthouse Test](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/Lighthousse/gallery-lighthouse-test.png)
+![Gallery Page Lighthouse Test](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/Lighthouse/gallery-lighthouse-test.png)
 
 
 ## **Testing of User Stories**
