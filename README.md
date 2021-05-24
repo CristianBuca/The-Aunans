@@ -247,7 +247,7 @@ The footer includes links to the guild's social media platforms and satisfies us
 
 * **[HTML5](https://html.spec.whatwg.org)**
 * **[CSS3](https://www.w3.org/Style/CSS/Overview.en.html)**
-* **[Bootstrap v4.6](https://getbootstrap.com)** Components for the navbar, "Join US" modal, image carousel, grid system were taken from the Bootstrap library.
+* **[Bootstrap v4.6](https://getbootstrap.com)** Components for the navbar, modal, image carousel, grid system were taken from the Bootstrap library.
 * **[Github](https://github.com)** For storing my repository.
 * **[Github Desktop](https://desktop.github.com)** For managing syncronisations between local and cloud-stored repositories.
 * **[Git](https://git-scm.com)** For version control.
@@ -413,7 +413,8 @@ Feature | Action | Expected Result | Actual Result
 * **Fix:** Add the correct unit of measure in iframe style.
 * **Bug:** Low Best Practices Lighthouse score due to low resolution image being displayed on medium screens.
 * **Fix:** Improve score by setting the image to only be displayed on small screens and replaced by higher resolution image on medium screens sizes and up.
-
+* **Bug:** Application form doesn't post data to https://formdump.codeinstitute.net/.
+* **Fix:** Add "name="..." to input fields.
 ## **Deployment**
 
 The website is hosted and deployed from Github. The steps taken for deployment were:
