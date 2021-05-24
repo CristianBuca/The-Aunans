@@ -42,14 +42,13 @@
   * [**Credits**](#credits)
   * [**Acknowledgements**](#acknowledgements)
 
---Link to deployed website--
+## **You can find the deployed website** [**HERE**](https://cristianbuca.github.io/The-Aunans/)
 
 # **User Experience**
 
 The app is designed to consolidate all relevant information related to the community and it's activities in a mobile-friendly user interface.
 
 # **Strategy**
-
 
 ##  **Project Goals**
 * Showcase the Aunans Guild to the World of Warcraft community.
@@ -130,7 +129,8 @@ Open Sans and Roboto sans-serif based font families were used to maintain the to
 
 #### 1. Hero Image with call to action for applicants.
 
--- screenshot --
+![Hero Image](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/hero-image.png)
+![Modal](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/modal.png)
 
 *User stories solved by this feature:*
 
@@ -138,7 +138,7 @@ User stories **6, 12** are being satisfied by the presence of the **Join Us!** b
 
 #### 2. Most important community achievement so far.
 
--- screenshot --
+![Important Achievement](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/important-achievements.png)
 
 *User stories solved by this feature:*
 
@@ -146,7 +146,7 @@ User stories **2, 3, 7, 11, 13** are being satisfied by the current guild's late
 
 #### 3. Statistics and ranking.
 
--- screenshot --
+![Statistics and Rankings](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/stats-ranks.png)
 
 *User stories solved by this feature:*
 
@@ -155,7 +155,7 @@ User stories **3, 11** are being satisfied by the statistics present in this sec
 
 #### 4. Activities schedule and requirements for joining.
 
--- screenshot --
+![Schedule](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/schedule.png)
 
 *User stories solved by this feature:*
 
@@ -165,7 +165,7 @@ User stories **5, 6, 9, 10, 14** are satisfied by the information presented in t
 
 #### 1. Leadership.
 
--- screenshot --
+![Leadership](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/leadership.png)
 
 *User stories solved by this feature:*
 
@@ -173,7 +173,7 @@ User stories **1, 4, 13** are satisfied by the presentation of the leadership.
 
 #### 2. History.
 
--- screenshot --
+![History](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/history.png)
 
 *User stories solved by this feature:*
 
@@ -181,7 +181,7 @@ User story **1** is satisfied by the *History* in this section.
 
 #### 3. Members roster.
 
--- screenshot --
+![Members roster](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/members-roster.png)
 
 *User stories solved by this feature:*
 
@@ -189,7 +189,7 @@ User stories **1, 3, 4** are being satisfied by the member roster.
 
 #### 4. Other notable achievements.
 
--- screenshot --
+![Other Achievements](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/other-achievements.png)
 
 *User stories solved by this feature:*
 
@@ -199,7 +199,7 @@ User stories **2, 3, 13** are satisfied by the achievements showcase in this sec
 
 #### 1. Strategy guides.
 
--- screenshot --
+![Strategy guides](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/strategy-guides.png)
 
 *User stories solved by this feature:*
 
@@ -207,7 +207,8 @@ User stories **2, 8, 9** are satisfied by the guides presented in this section.
 
 #### 2. Useful Resources.
 
--- screenshot --
+![Useful Resources](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/class-guides.png)
+![Useful Resources](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/mythic-progression.png)
 
 *User stories solved by this feature:*
 
@@ -217,7 +218,7 @@ User stories **8, 9** are satisfied by the resources in this section.
 
 #### 1. Community images.
 
--- screenshot --
+![Community Images](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/community-images.png)
 
 *User stories solved by this feature:*
 
@@ -225,7 +226,7 @@ User stories **1, 2** are satisfied by the community screenshot and pictures.
 
 #### 2. Community videos.
 
--- screenshot --
+![Community Videos](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/community-videos.png)
 
 *User stories solved by this feature:*
 
@@ -233,13 +234,13 @@ User stories **1, 2** are satisfied by the community videos.
 
 ### **Navigation bar**
 
--- screenshot --
+![Navigation Menu](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/nav-menu.png)
 
 For ease of navigation on mobile devices especially, the navbar is fixed at the top of the screen and includes a button that enables application submission which is tied to the user stories **6, 11**.
 
 ### **Footer**
 
--- screenshot --
+![Footer](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/footer.png)
 
 The footer includes links to the guild's social media platforms and satisfies user story **7**.
 
@@ -284,7 +285,7 @@ The footer includes links to the guild's social media platforms and satisfies us
 
 ![Gallery Page Accessibility Evaluation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/accessibility/gallery-wave-eval.png)
 
-### Performace Tests
+### Performance Tests
 
 ![Home Page Lighthouse Test](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/Lighthouse/index-lighthouse-test.png)
 
