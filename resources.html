@@ -114,11 +114,11 @@
         <!-- Footer -->
 
         <!-- Modal Start. Built with Bootstrap modal component. Code inspired from Code Institute Bootstrap practical lesson and was styled and modified to suit this app -->
-     <div class="modal" tabindex="-1" role="dialog" id="joinModal" style="display: none;" aria-hidden="true">
+     <div class="modal" tabindex="-1" role="dialog" id="joinModal" style="display: none" aria-hidden="true">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title">Join The Aunans!</h5>
+                    <h4 class="modal-title">Join The Aunans!</h4>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">x</span>
                     </button>
@@ -127,20 +127,20 @@
                     <form action="https://formdump.codeinstitute.net" method="POST">
                         <div class="form-group">
                             <label for="characterName">Main Character Name</label>
-                            <input type="text" class="form-control" id="characterName" placeholder="What is you Main's Name?" required>
+                            <input type="text" class="form-control" id="characterName" name="char-name" placeholder="What is you Main's Name?" required>
                         </div>
                         <div class="form-group">
                             <label for="realm">Realm Name</label>
-                            <input type="text" class="form-control" id="realm" placeholder="On which Realm do you play?" required>
+                            <input type="text" class="form-control" id="realm" name="realm" placeholder="On which Realm do you play?" required>
                         </div>
                         <div class="form-group">
                             <label for="emailAddress">Email Address</label>
-                            <input type="email" class="form-control" id="emailAddress" aria-describedby="emailHelp" placeholder="What is your Email Address" required>
+                            <input type="email" class="form-control" id="emailAddress" name="email" aria-describedby="emailHelp" placeholder="What is your Email Address" required>
                             <small id="emailHelp" class="form-text text-muted">We won't share your info with anyone else</small>
                         </div>
                         <div class="form-group">
                             <label for="availability">Which days can you attend the raid on?</label>
-                            <select multiple class="form-control" id="availability" aria-describedby="availabilityHelp" required>
+                            <select multiple class="form-control" id="availability" name="availability" aria-describedby="availabilityHelp" required>
                                 <option>Thursdays</option>
                                 <option>Mondays</option>
                                 <option>Weekends</option>
@@ -149,9 +149,9 @@
                         </div>
                         <div class="form-group">
                             <label for="otherComments">Anything else you would like to share?</label>
-                            <textarea class="form-control" id="otherComments" rows="3"></textarea>
+                            <textarea class="form-control" id="otherComments" name="other-comments" rows="3"></textarea>
                         </div>
-                        <input type="submit" class="modalButton" value="Apply">
+                        <input type="submit" class="modalButton btn btn-danger" value="Apply">
                     </form>
                 </div>
             </div>
