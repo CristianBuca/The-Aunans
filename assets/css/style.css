@@ -222,6 +222,10 @@ iframe {
     color:#ffc107;
 }
 
+.modal img {
+    width: 75px;
+}
+
 /* Media Queries */
 
 /* For medium screens up to 1000px  */
