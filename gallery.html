@@ -51,47 +51,44 @@
     <div class="container-xl">
         <div class="row">
             <div class="col-12 galleryCarousel">
-                <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                <div id="carouselControls" class="carousel slide" data-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="assets/img/carousel/20200820_122423-min.jpg" class="d-block w-100" alt="Member photos">
+                            <img src="assets/img/carousel/20200820_122423-min.jpg" alt="Member photos">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/img/carousel/20200905_175905-min.jpg" class="d-block w-100" alt="Member photos">
+                            <img src="assets/img/carousel/20200905_175905-min.jpg" alt="Member photos">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/img/carousel/20200905_175920-min.jpg" class="d-block w-100" alt="Member photos">
+                            <img src="assets/img/carousel/20200905_175920-min.jpg" alt="Member photos">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/img/carousel/20210321_194341-min.jpg" class="d-block w-100" alt="Member photos">
+                            <img src="assets/img/carousel/20210321_194341-min.jpg" alt="Member photos">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/img/carousel/20210406_180231-min.jpg" class="d-block w-100" alt="Member photos">
+                            <img src="assets/img/carousel/20210406_180231-min.jpg" alt="Member photos">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/img/carousel/DSC_0369-min.jpg" class="d-block w-100" alt="Member photos">
+                            <img src="assets/img/carousel/DSC_0369-min.jpg" alt="Member photos">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/img/carousel/DSC_0376-min.jpg" class="d-block w-100" alt="Member photos">
+                            <img src="assets/img/carousel/DSC_0376-min.jpg" alt="Member photos">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/img/carousel/DSC_0380-min.jpg" class="d-block w-100" alt="Member photos">
+                            <img src="assets/img/carousel/DSC_0380-min.jpg" alt="Member photos">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/img/carousel/DSC_0403-min.jpg" class="d-block w-100" alt="Member photos">
+                            <img src="assets/img/carousel/DSC_0403-min.jpg" alt="Member photos">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/img/carousel/DSC_0491-min.jpg" class="d-block w-100" alt="Member photos">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="assets/img/carousel/IMG_20200701_010116-min.jpg" class="d-block w-100" alt="Member photos">
+                            <img src="assets/img/carousel/IMG_20200701_010116-min.jpg" alt="Member photos">
                         </div>
                     </div>
-                        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                        <a class="carousel-control-prev" href="#carouselControls" role="button" data-slide="prev">
                           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                           <span class="sr-only">Previous</span>
                         </a>
-                        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                        <a class="carousel-control-next" href="#carouselControls" role="button" data-slide="next">
                           <span class="carousel-control-next-icon" aria-hidden="true"></span>
                           <span class="sr-only">Next</span>
                         </a>
@@ -160,11 +157,11 @@
         <!-- Footer -->
 
         <!-- Modal Start. Built with Bootstrap modal component. Code inspired from Code Institute Bootstrap practical lesson and was styled and modified to suit this app -->
-     <div class="modal" tabindex="-1" role="dialog" id="joinModal" style="display: none;" aria-hidden="true">
+     <div class="modal" tabindex="-1" role="dialog" id="joinModal" style="display: none" aria-hidden="true">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title">Join The Aunans!</h5>
+                    <h4 class="modal-title">Join The Aunans!</h4>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">x</span>
                     </button>
@@ -173,20 +170,20 @@
                     <form action="https://formdump.codeinstitute.net" method="POST">
                         <div class="form-group">
                             <label for="characterName">Main Character Name</label>
-                            <input type="text" class="form-control" id="characterName" placeholder="What is you Main's Name?" required>
+                            <input type="text" class="form-control" id="characterName" name="char-name" placeholder="What is you Main's Name?" required>
                         </div>
                         <div class="form-group">
                             <label for="realm">Realm Name</label>
-                            <input type="text" class="form-control" id="realm" placeholder="On which Realm do you play?" required>
+                            <input type="text" class="form-control" id="realm" name="realm" placeholder="On which Realm do you play?" required>
                         </div>
                         <div class="form-group">
                             <label for="emailAddress">Email Address</label>
-                            <input type="email" class="form-control" id="emailAddress" aria-describedby="emailHelp" placeholder="What is your Email Address" required>
+                            <input type="email" class="form-control" id="emailAddress" name="email" aria-describedby="emailHelp" placeholder="What is your Email Address" required>
                             <small id="emailHelp" class="form-text text-muted">We won't share your info with anyone else</small>
                         </div>
                         <div class="form-group">
                             <label for="availability">Which days can you attend the raid on?</label>
-                            <select multiple class="form-control" id="availability" aria-describedby="availabilityHelp" required>
+                            <select multiple class="form-control" id="availability" name="availability" aria-describedby="availabilityHelp" required>
                                 <option>Thursdays</option>
                                 <option>Mondays</option>
                                 <option>Weekends</option>
@@ -195,15 +192,16 @@
                         </div>
                         <div class="form-group">
                             <label for="otherComments">Anything else you would like to share?</label>
-                            <textarea class="form-control" id="otherComments" rows="3"></textarea>
+                            <textarea class="form-control" id="otherComments" name="other-comments" rows="3"></textarea>
                         </div>
-                        <input type="submit" class="modalButton" value="Apply">
+                        <input type="submit" class="modalButton btn btn-danger" value="Apply">
                     </form>
                 </div>
             </div>
         </div>
     </div>
         <!-- Modal End -->
+        
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
 </body>
