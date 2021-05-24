@@ -24,7 +24,7 @@ strong {
     color: #ffc107;
 }
 
-.btn-joinUs {
+.btn-joinUs, .modalButton {
     background-color: #BA0C0C;
 }
 
@@ -208,7 +208,21 @@ iframe {
     height: 315px;
 }
 
-/* Media queries */
+/* Modal Style */
+
+.modal-content {
+    background-color: #1a1a1a;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #BA0C0C;
+    border-radius: 5px;
+}
+
+.modal .close {
+    color:#ffc107;
+}
+
+/* Media Queries */
 
 /* For medium screens up to 1000px  */
 
