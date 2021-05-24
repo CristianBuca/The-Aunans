@@ -98,13 +98,13 @@ The app is designed to consolidate all relevant information related to the commu
 
 The colour scheme is based on The Aunans' banner colours and the colours representive of the faction they belong to.
 
-![Colour scheme sample](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Aunans%20color%20scheme.png)
+![Colour scheme sample](https://github.com/CristianBuca/The-Aunans/blob/main/docs/aunans-color-scheme.png)
 
 #0E174F
 #163E88
 #BA0C0C
 #D79717
-#F7E43C #ffc107
+#FFC107
 
 ### **Font Scheme**
 
@@ -438,7 +438,7 @@ Steps to follow for cloning this repository:
 4. Copy the HTTPS address,
 5. In your Git Bash Terminal type *"git clone"* then paste the address.
 
-*Alternatively you can download the repository as ZIP or use [Github Desktop](https://desktop.github.com) the repository on you local machine*
+*Alternatively you can download the repository as ZIP or use [Github Desktop](https://desktop.github.com) to ge the repository on you local machine*
 
 ## **Credits**
 
