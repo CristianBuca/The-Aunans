@@ -433,7 +433,7 @@ The website is hosted and deployed from Github. The steps taken for deployment w
 
 Steps to follow for cloning this repository:
 
-1. Log into you [Github](https://github.com) account,
+1. Log into your [Github](https://github.com) account,
 2. Select the [Repository](https://github.com/CristianBuca/The-Aunans),
 3. Click on the drop-down menu title **Code** on the top right of the repository file tree,
 4. Copy the HTTPS address,
@@ -454,6 +454,7 @@ Steps to follow for cloning this repository:
 * Boss logs provided by [Warcraft Logs](https://www.warcraftlogs.com).
 * Solution to change hamburger toggler color from [StackOverflow](https://stackoverflow.com/questions/42586729/bootstrap-4-change-hamburger-toggler-color).
 * Solution to for variable size images in carousel from [StackOverflow](https://stackoverflow.com/questions/13391566/twitter-bootstrap-carousel-different-height-images-cause-bouncing-arrows) 
+* Favicon icon creted with [Favicon.io](https://favicon.io)
 
 ## **Acknowledgements**
 
