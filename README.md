@@ -125,16 +125,22 @@ Open Sans and Roboto sans-serif based font families were used to maintain the to
 
 ## **Features**
 
+
 ### **Landing Page**
 
-#### 1. Hero Image with call to action for applicants.
+<details>
+  <sumary>#### 1. Hero Image with call to action for applicants.</sumary>
 
 ![Hero Image](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/hero-image.png)
 ![Modal](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/modal.png)
+</details>
 
 *User stories solved by this feature:*
 
-User stories **6, 12** are being satisfied by the presence of the **Join Us!** button and the application modal. 
+6. As a new user, I want to see what the recruitment process is.
+12. As a site owner, I want new members to be able to submit an application to join the community.
+
+The user stories are being satisfied by the presence of the **Join Us!** call to arms and the application form.
 
 #### 2. Most important community achievement so far.
 
