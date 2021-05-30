@@ -163,14 +163,18 @@ On small displays the heroic raid clear achievement is being presented also in a
 
 The user stories are being satisfied by the guild's most important achievements presented in this section. The user will be able to determine that the guild's focus is progressing in the latest raids on higher dificulties and those with similar interests can make an informed decision and apply to join the community.
 
-#### 3. Statistics.
+<details>
+  <summary> (expand) 3. Statistics. </summary>
 
 ![Statistics](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/stats-ranks.png)
+</details>
+
+In this section the roster breakdown by class and role provides the user with a way to see the guild' composition and if their class/role is needed by the team.
 
 *User stories solved by this feature:*
 
-User stories **3, 11** are being satisfied by the statistics present in this section.
-
+4. As a new user, I want to get familiar with the communities members.
+11. As a site owner, I want to attract new members to the community.
 
 #### 4. Activities schedule and requirements for joining.
 
