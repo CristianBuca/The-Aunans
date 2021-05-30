@@ -129,7 +129,7 @@ Open Sans and Roboto sans-serif based font families were used to maintain the to
 ### **Landing Page**
 
 <details>
-  <sumary>#### 1. Hero Image with call to action for applicants.</sumary>
+  <summary>#### 1. Hero Image with call to action for applicants.</summary>
 
 ![Hero Image](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/hero-image.png)
 ![Modal](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/modal.png)
