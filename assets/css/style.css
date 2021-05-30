@@ -226,6 +226,8 @@ iframe {
 .table thead th, .table td, .table th {
     border-color: #BA0C0C;
     vertical-align: middle;
+    padding-left: 0;
+    padding-right: 0;
 }
 
 
