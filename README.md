@@ -128,15 +128,15 @@ Open Sans and Roboto sans-serif based font families were used to maintain the to
 
 ### **Landing Page**
 
-Is composed of the Alliance banner to convey to the user what faction the guild is a part of. 
-On small devices the call to arms button is present under the guild's title which moves in the navigation bar on devices medium and up and is being replaced by a cartoon strip which suggests the main focus of the community's activities (raiding).
-
 <details>
   <summary> (expand) 1. Hero Image with call to action for applicants.</summary>
 
 ![Hero Image](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/hero-image.png)
 ![Modal](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/modal.png)
 </details>
+
+Is composed of the Alliance banner to convey to the user what faction the guild is a part of. 
+On small devices the call to arms button is present under the guild's title which moves in the navigation bar on devices medium and up and is being replaced by a cartoon strip which suggests the main focus of the community's activities (raiding).
 
 *User stories solved by this feature:*
 
@@ -145,18 +145,27 @@ On small devices the call to arms button is present under the guild's title whic
 
 The user stories are being satisfied by the presence of the **Join Us!** call to arms and the application form.
 
-
-#### 2. Most important community achievement so far.
+<details>
+  <summary> (expand) 2. Most important community achievement so far.</summary>
 
 ![Important Achievement](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/important-achievements.png)
+</details>
+
+In this section the user can find an official rank banner provided by **WoWProgress** and clicking on it will open the ranking site in a new window.
+On small displays the heroic raid clear achievement is being presented also in a condensed form whereas on large displays and up, the normal raid clear achievement is being displayed also with additional information on the bosses that were killed.
 
 *User stories solved by this feature:*
 
-User stories **2, 3, 7, 11, 13** are being satisfied by the current guild's latest achievements presented in this section.
+2. As a new user, I want to know what the community's focus is.
+3. As a new user, I want to see the communities progress and statistics.
+11. As a site owner, I want to attract new members to the community.
+13. As a site owner, I want to convey accurate information to attract the right candidates for our roster.
 
-#### 3. Statistics and ranking.
+The user stories are being satisfied by the guild's most important achievements presented in this section. The user will be able to determine that the guild's focus is progressing in the latest raids on higher dificulties and those with similar interests can make an informed decision and apply to join the community.
 
-![Statistics and Rankings](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/stats-ranks.png)
+#### 3. Statistics.
+
+![Statistics](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/stats-ranks.png)
 
 *User stories solved by this feature:*
 
