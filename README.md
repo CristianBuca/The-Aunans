@@ -456,8 +456,20 @@ Steps to follow for cloning this repository:
 * Solution to for variable size images in carousel from [StackOverflow](https://stackoverflow.com/questions/13391566/twitter-bootstrap-carousel-different-height-images-cause-bouncing-arrows) 
 * Favicon icon creted with [Favicon.io](https://favicon.io)
 
+### Code Institute colleagues who's work I followed for guidance:
+
+[Stephen Seagrave](https://github.com/nemixu/Milestone1)
+[StephenJ2020](https://github.com/StephenJ2020/CI-MS1-IrishSpiritTours)
+[irinatu17](https://github.com/irinatu17/Portishead)
+[TaraRhoseyn](https://github.com/TaraRhoseyn/CI_MS1_CardiffSwimCentre)
+
+
 ## **Acknowledgements**
 
+* Special thanks to my menthor Mo Shami for keeping me on the right path during the development of this project.
+* The Code Institute team (Matt Rudge, Anna Greaves, Brian O'Grady) for all the effort and energy they put into the HTML, CSS and User Centric Front End Development lessons.
+
+## Disclaimer
 
 _This project is for educational use only and was created for the Code Institute Module of User Centric front end development_
 
