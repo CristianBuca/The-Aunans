@@ -195,13 +195,21 @@ This information serves as an incentive for the right demographic of players to 
 
 ### **Guild info**
 
-#### 1. Leadership.
+<details>
+  <summary> (expand) 1. Leadership. </summary>
 
 ![Leadership](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/leadership.png)
+</details>
+
+On small display devices users are presented with the guild leader's character sheet. On medium displays and up the first officer's character sheet is being displayed also along with more details on their equipment.
 
 *User stories solved by this feature:*
 
-User stories **1, 4, 13** are satisfied by the presentation of the leadership.
+1. As a new user, I want to know more about the Aunans and their history.
+4. As a new user, I want to get familiar with the communities members.
+13. As a site owner, I want to convey accurate information to attract the right candidates for our roster.
+
+Getting to know the leaders of the community is an important feature for the users as they are able to compare wit their own characters and decide what they will gain by joining.
 
 #### 2. History.
 
