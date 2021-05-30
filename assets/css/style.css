@@ -24,7 +24,7 @@ strong {
     color: #ffc107;
 }
 
-.btn-joinUs, .modalButton {
+.btn-joinUs, .modalButton, .btn-turnBack {
     background-color: #BA0C0C;
 }
 
@@ -35,10 +35,20 @@ strong {
     background-color: #0E174F;
     background-image: url("../img/Hero-img.jpg");
     height: 100vh;
-    width: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center center;
+    background-size: cover;
+}
+
+#wrongpath {
+    /* margin-top: 82px; */
+    height: 100vh;
+    background-color: #0E174F;
+    background-image: url("../img/404-bk.jpg");
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-position: top right;
     background-size: cover;
 }
 
@@ -106,7 +116,6 @@ nav .navbar-nav li a {
     height: 35vh;
     top: 65vh;
     background-color: rgba(0, 0, 0, 0.75);
-    overflow: hidden;
 }
 
                 /* Code to change hamburger toggler from StackOverflow (full credit in readme.md) */
