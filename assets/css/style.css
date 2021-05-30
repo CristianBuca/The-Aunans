@@ -217,6 +217,12 @@ iframe {
     height: 315px;
 }
 
+/* Table Style */
+
+.table {
+    color: inherit;
+}
+
 /* Modal Style */
 
 .modal-content {
