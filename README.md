@@ -176,13 +176,22 @@ In this section the roster breakdown by class and role provides the user with a 
 4. As a new user, I want to get familiar with the communities members.
 11. As a site owner, I want to attract new members to the community.
 
-#### 4. Activities schedule and requirements for joining.
+<details>
+  <summary> (expand) 4. Activities schedule and requirements for joining.</summary>
 
 ![Schedule](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/schedule.png)
+</details>
+
+Users can find what the attendance requirements for raids are and the days/hours they would be able to raid with the if they wish to join.
+This information serves as an incentive for the right demographic of players to apply to join the guild's roster.
 
 *User stories solved by this feature:*
 
-User stories **5, 6, 9, 10, 14** are satisfied by the information presented in this section.
+5. As a new user, I want to see when certain activities take place.
+6. As a new user, I want to see what the recruitment process is.
+10. As a regular user, I want to see any community plans and activities I can be a part of.
+11. As a site owner, I want to attract new members to the community.
+14. As a site owner, I want members to have access to activity information and maximize involvement.
 
 ### **Guild info**
 
