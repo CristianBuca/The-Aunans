@@ -128,8 +128,11 @@ Open Sans and Roboto sans-serif based font families were used to maintain the to
 
 ### **Landing Page**
 
+Is composed of the Alliance banner to convey to the user what faction the guild is a part of. 
+On small devices the call to arms button is present under the guild's title which moves in the navigation bar on devices medium and up and is being replaced by a cartoon strip which suggests the main focus of the community's activities (raiding).
+
 <details>
-  <summary>#### 1. Hero Image with call to action for applicants.</summary>
+  <summary> (expand) 1. Hero Image with call to action for applicants.</summary>
 
 ![Hero Image](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/hero-image.png)
 ![Modal](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/modal.png)
@@ -141,6 +144,7 @@ Open Sans and Roboto sans-serif based font families were used to maintain the to
 12. As a site owner, I want new members to be able to submit an application to join the community.
 
 The user stories are being satisfied by the presence of the **Join Us!** call to arms and the application form.
+
 
 #### 2. Most important community achievement so far.
 
