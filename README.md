@@ -257,6 +257,8 @@ The footer includes links to the guild's social media platforms and satisfies us
 * **[Google Fonts](https://fonts.google.com)** Roboto and Open Sans were used as default fonts for the web application.
 * **[Optimizilla](https://imagecompressor.com)** To optimise images for web applications.
 * **[WoW Hunter](https://wow-hunter.ro/tabard-creator/)** For logo design.
+* **[Favicon.io](https://favicon.io)** For creating the favicon.
+* **[Colormind](http://colormind.io)** Color scheme generator.
 
 ## **Validation**
 
@@ -443,7 +445,6 @@ Steps to follow for cloning this repository:
 
 ## **Credits**
 
-* Colour pallete generated with [Colormind](http://colormind.io).
 * Readme table of contents generated with [MarkdDown TOC](https://ecotrust-canada.github.io/markdown-toc/).
 * Hero image was taken from [Wallpapper Flare](https://www.wallpaperflare.com).
 * Landing page GIF was taken from [DarkLegacyComics issue #635](https://www.darklegacycomics.com).
@@ -453,8 +454,9 @@ Steps to follow for cloning this repository:
 * Embeded videos from [FatbossTV Youtube Channel](https://www.youtube.com/c/FatbossTV/featured).
 * Boss logs provided by [Warcraft Logs](https://www.warcraftlogs.com).
 * Solution to change hamburger toggler color from [StackOverflow](https://stackoverflow.com/questions/42586729/bootstrap-4-change-hamburger-toggler-color).
-* Solution to for variable size images in carousel from [StackOverflow](https://stackoverflow.com/questions/13391566/twitter-bootstrap-carousel-different-height-images-cause-bouncing-arrows) 
-* Favicon icon creted with [Favicon.io](https://favicon.io)
+* Solution to for variable size images in carousel from [StackOverflow](https://stackoverflow.com/questions/13391566/twitter-bootstrap-carousel-different-height-images-cause-bouncing-arrows).
+* Credits for the 404 page background image go to [Blizzard Entertainment](https://www.blizzard.com/en-gb/).
+
 
 ### Code Institute colleagues who's work I followed for guidance:
 
