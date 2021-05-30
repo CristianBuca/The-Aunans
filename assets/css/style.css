@@ -223,6 +223,16 @@ iframe {
     color: inherit;
 }
 
+.table thead th, .table td, .table th {
+    border-color: #BA0C0C;
+}
+
+td img {
+    max-height: 56px;
+    max-width: 56px;
+}
+
+
 /* Modal Style */
 
 .modal-content {
