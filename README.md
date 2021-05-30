@@ -418,6 +418,9 @@ Feature | Action | Expected Result | Actual Result
 * **Fix:** Improve score by setting the image to only be displayed on small screens and replaced by higher resolution image on medium screens sizes and up.
 * **Bug:** Application form doesn't post data to https://formdump.codeinstitute.net/.
 * **Fix:** Add "name="..." to input fields.
+* **Bug:** Table on Guild Info page is too wide for small displays.
+* **Fix:** Hide last column on small displays and lower.
+
 ## **Deployment**
 
 The website is hosted and deployed from Github. The steps taken for deployment were:
