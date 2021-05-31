@@ -288,7 +288,7 @@ This section provides additional resources suggested by the team's leadership to
 <details>
   <summary> (expand) 1. Community images carousel. </summary>
 
-
+![Image Carousel](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/carousel.png)
 </details>
 
 The section includes an image carousel build with Bootstrap and customised to fit the apps' purpose and style. The carousel presents real life pictures submitted by the users which adds another layer to the user getting familiar with the team not just in game.
