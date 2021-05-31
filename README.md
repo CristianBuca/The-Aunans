@@ -411,61 +411,61 @@ The 404 Error Page let's the user know he has wondered down the wrong path and p
 
 #### Home Page HTML Validation found no errors:
 
-![Home Page HTML Validation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/html/index-html-validation.png)
+![Home Page HTML Validation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/validation/html/index-html-validation.png)
 
 #### Guild Info Page HTML Validation found no errors:
 
-![Guild Info Page HTML Validation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/html/guildinfo-html-validation.png)
+![Guild Info Page HTML Validation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/validation/html/guildinfo-html-validation.png)
 
 #### Resources Page HTML Validation found no errors:
 
-![Resources Page HTML Validation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/html/resources-html-validation.png)
+![Resources Page HTML Validation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/validation/html/resources-html-validation.png)
 
 #### Gallery Page HTML Validation found no errors:
 
-![Gallery Page HTML Validation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/html/gallery-html-validation.png)
+![Gallery Page HTML Validation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/validation/html/gallery-html-validation.png)
 
 #### 404 Page HTML Validation found no errors:
 
-![Gallery Page HTML Validation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/html/404-html-validation.png)
+![Gallery Page HTML Validation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/validation/html/404-html-validation.png)
 
 ### CSS validation was carried out with W3 Jigsaw and found no errors:
 
-![CSS Validation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/css/css-validation.png)
+![CSS Validation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/validation/css/css-validation.png)
 
 ### Accessibility Evaluation was carried out with WAVE Web Accessibility Evaluation Tool.
 
 #### Home Page Accessibility Evaluation found no errors:
 
-![Home Page Accessibility Evaluation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/accessibility/index-wave-eval.png)
+![Home Page Accessibility Evaluation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/validation/accessibility/index-wave-eval.png)
 
 #### Guild Info Page Accessibility Evaluation found no errors:
 
-![Guild Info Page Accessibility Evaluation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/accessibility/guildinfo-wave-eval.png)
+![Guild Info Page Accessibility Evaluation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/validation/accessibility/guildinfo-wave-eval.png)
 
 #### Resources Page Accessibility Evaluation found no errors:
 
-![Resources Page Accessibility Evaluation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/accessibility/resources-wave-eval.png)
+![Resources Page Accessibility Evaluation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/validation/accessibility/resources-wave-eval.png)
 
 #### Gallery Page Accessibility Evaluation found no errors:
 
-![Gallery Page Accessibility Evaluation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/accessibility/gallery-wave-eval.png)
+![Gallery Page Accessibility Evaluation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/validation/accessibility/gallery-wave-eval.png)
 
 #### 404 Page Accessibility Evaluation found no errors:
 
-![404 Page Accessibility Evaluation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/accessibility/404-wave-eval.png)
+![404 Page Accessibility Evaluation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/validation/accessibility/404-wave-eval.png)
 
 ### Performance Tests
 
-![Home Page Lighthouse Test](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/Lighthouse/index-lighthouse-test.png)
+![Home Page Lighthouse Test](https://github.com/CristianBuca/The-Aunans/blob/main/docs/validation/lighthouse/index-lighthouse-test.png)
 
-![Guild Info Page Lighthouse Test](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/Lighthouse/guildinfo-lighthouse-test.png)
+![Guild Info Page Lighthouse Test](https://github.com/CristianBuca/The-Aunans/blob/main/docs/validation/lighthouse/guildinfo-lighthouse-test.png)
 
-![Resources Page Lighthouse Test](https://github.com/CristianBuca/The-Aunans/blob//main/docs/Validation/Lighthouse/resources-lighthouse-test.png)
+![Resources Page Lighthouse Test](https://github.com/CristianBuca/The-Aunans/blob//main/docs/validation/lighthouse/resources-lighthouse-test.png)
 
-![Gallery Page Lighthouse Test](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/Lighthouse/gallery-lighthouse-test.png)
+![Gallery Page Lighthouse Test](https://github.com/CristianBuca/The-Aunans/blob/main/docs/validation/lighthouse/gallery-lighthouse-test.png)
 
-![404 Page Lighthouse Test](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/Lighthouse/404-lighthouse-test.png)
+![404 Page Lighthouse Test](https://github.com/CristianBuca/The-Aunans/blob/main/docs/validation/lighthouse/404-lighthouse-test.png)
 
 
 ## **Testing of User Stories**
