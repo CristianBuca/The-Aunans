@@ -506,6 +506,7 @@ The 404 Error Page let's the user know he has wondered down the wrong path and p
 
 <details>
   <summary> (expand) 404 Page Lighthouse Test</summary>
+  
 ![404 Page Lighthouse Test](https://github.com/CristianBuca/The-Aunans/blob/main/docs/validation/lighthouse/404-lighthouse-test.png)
 </details>
 
