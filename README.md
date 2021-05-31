@@ -93,6 +93,13 @@ The app is designed to consolidate all relevant information related to the commu
 
 ## **Design**
 
+The design of the app is consistent with other major apps that a World of Warcraft player might be already familiar with. It provides synergy with web apps like [World of Warcraft Armory](https://worldofwarcraft.com/en-gb/), [WoWProgress](https://www.wowprogress.com/guild/eu/darksorrow/The+Aunans), [Raider IO](https://raider.io) and [Warcraft Logs](https://www.warcraftlogs.com) while funneling information relevant to the site owner's to the user.
+The dark tone with high contrasts was chosen to cater to gamers who by default will gravitate to "night-mode" options on apps as they will usually avoid bright areas due to reflections in their displays while gaming.
+
+The app is fully responsive to different devices and information is contextualised based on screen sizes. On small devices, overload of visual data is avoided by hiding some extra details and information while keeping only the most important features. Landing Page displays only heroic achievement, Leadership Section only displays the guild leader and History Section provides brief history of the guild's early days. Secondary achievements on Guild Info Page are readuced from 6+2 achievements on large screens to 4+3 on medium screens to 2 on small screens. On larger devices aditional content populates it's features like a comic strip on Landing Page and aditional Achievemnt banners; Guild Info Page shows First Officer's avatar also and History Section will have further breakdown of the guild's past for every game expansion.
+
+Sections on all pages were implemented using Bootrap grid thus columns re-arrange based on the width of the device the user is using to maximise the use of screen realty and provide a better user experience.
+
 ### **Colour Scheme**
 
 The colour scheme is based on The Aunans' banner colours and the colours representive of the faction they belong to.
@@ -124,7 +131,6 @@ Open Sans and Roboto sans-serif based font families were used to maintain the to
 [Application Modal](https://github.com/CristianBuca/The-Aunans/blob/main/docs/wireframes/Join%20Us%20Modal.png)
 
 ## **Features**
-
 
 ### **Landing Page**
 
@@ -430,6 +436,8 @@ The footer is consistent on all pages and provides links which open in new tabs 
 | --- | --- | --- | --- |
 | Guild Info, History, Members Roster sections on Guild Info page | Click on Guild Info link in the navigation menu. Scroll down trough the sections | To find information about the guild and it's history | Works as expected |
 | Image Gallery and Community Videos sections on Gallery page | Click on Gallery link in the navigation menu. Scroll trough the sections | To find images and videos from the community | Works as expected |
+
+
 
 ### 2. As a new user, I want to know what the community's focus is.
 
