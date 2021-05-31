@@ -140,8 +140,8 @@ On small devices the call to arms button is present under the guild's title whic
 
 *User stories solved by this feature:*
 
-6. As a new user, I want to see what the recruitment process is.
-12. As a site owner, I want new members to be able to submit an application to join the community.
+6- As a new user, I want to see what the recruitment process is.
+12- As a site owner, I want new members to be able to submit an application to join the community.
 
 The user stories are being satisfied by the presence of the **Join Us!** call to arms and the application form.
 
@@ -156,10 +156,10 @@ On small displays the heroic raid clear achievement is being presented also in a
 
 *User stories solved by this feature:*
 
-2. As a new user, I want to know what the community's focus is.
-3. As a new user, I want to see the community's progress and statistics.
-11. As a site owner, I want to attract new members to the community.
-13. As a site owner, I want to convey accurate information to attract the right candidates for our roster.
+2- As a new user, I want to know what the community's focus is.
+3- As a new user, I want to see the community's progress and statistics.
+11- As a site owner, I want to attract new members to the community.
+13- As a site owner, I want to convey accurate information to attract the right candidates for our roster.
 
 The user stories are being satisfied by the guild's most important achievements presented in this section. The user will be able to determine that the guild's focus is progressing in the latest raids on higher dificulties and those with similar interests can make an informed decision and apply to join the community.
 
@@ -173,8 +173,8 @@ In this section the roster breakdown by class and role provides the user with a 
 
 *User stories solved by this feature:*
 
-4. As a new user, I want to get familiar with the community's members.
-11. As a site owner, I want to attract new members to the community.
+4- As a new user, I want to get familiar with the community's members.
+11- As a site owner, I want to attract new members to the community.
 
 <details>
   <summary> (expand) 4. Activities schedule and requirements for joining.</summary>
@@ -187,11 +187,11 @@ This information serves as an incentive for the right demographic of players to 
 
 *User stories solved by this feature:*
 
-5. As a new user, I want to see when certain activities take place.
-6. As a new user, I want to see what the recruitment process is.
-10. As a regular user, I want to see any community plans and activities I can be a part of.
-11. As a site owner, I want to attract new members to the community.
-14. As a site owner, I want members to have access to activity information and maximize involvement.
+5- As a new user, I want to see when certain activities take place.
+6- As a new user, I want to see what the recruitment process is.
+10- As a regular user, I want to see any community plans and activities I can be a part of.
+11- As a site owner, I want to attract new members to the community.
+14- As a site owner, I want members to have access to activity information and maximize involvement.
 
 ### **Guild info**
 
@@ -205,9 +205,9 @@ On small display devices users are presented with the guild leader's character s
 
 *User stories solved by this feature:*
 
-1. As a new user, I want to know more about the Aunans and their history.
-4. As a new user, I want to get familiar with the community's members.
-13. As a site owner, I want to convey accurate information to attract the right candidates for our roster.
+1- As a new user, I want to know more about the Aunans and their history.
+4- As a new user, I want to get familiar with the community's members.
+13- As a site owner, I want to convey accurate information to attract the right candidates for our roster.
 
 Getting to know the leaders of the community is an important feature for the users as they are able to compare with their own characters and decide what they will gain by joining.
 
@@ -222,7 +222,7 @@ Members and visitors are able to see that the guild has a long history in the ga
 
 *User stories solved by this feature:*
 
-1. As a new user, I want to know more about the Aunans and their history.
+1- As a new user, I want to know more about the Aunans and their history.
 
 <details>
   <summary> (expand) 3. Members roster. </summary>
@@ -234,8 +234,8 @@ This section includes a table with guild members and provides race, class, role 
 
 *User stories solved by this feature:*
 
-1. As a new user, I want to know more about the Aunans and their history.
-4. As a new user, I want to get familiar with the community's members.
+1- As a new user, I want to know more about the Aunans and their history.
+4- As a new user, I want to get familiar with the community's members.
 
 <details>
   <summary> (expand) 4. Other notable achievements. </summary>
@@ -247,9 +247,9 @@ In this section the user will find further achievement badges earned by the guil
 
 *User stories solved by this feature:*
 
-2. As a new user, I want to know what the community's focus is.
-3. As a new user, I want to see the communities progress and statistics.
-13. As a site owner, I want to convey accurate information to attract the right candidates for our roster.
+2- As a new user, I want to know what the community's focus is.
+3- As a new user, I want to see the communities progress and statistics.
+13- As a site owner, I want to convey accurate information to attract the right candidates for our roster.
 
 ### **Resources**
 
@@ -264,10 +264,10 @@ This information is useful to the user as it presents the activities the team is
 
 *User stories solved by this feature:*
 
-2. As a new user, I want to know what the community's focus is.
-8. As a regular user, I want to see what are the newest community updates.
-9. As a regular user, I want to access game guides suggested by community leaders.
-10. As a regular user, I want to see any community plans and activities I can be a part of.
+2- As a new user, I want to know what the community's focus is.
+8- As a regular user, I want to see what are the newest community updates.
+9- As a regular user, I want to access game guides suggested by community leaders.
+10- As a regular user, I want to see any community plans and activities I can be a part of.
 
 <details>
   <summary> (expand) 2. Useful Resources. </summary>
@@ -280,29 +280,30 @@ This section provides additional resources suggested by the team's leadership to
 
 *User stories solved by this feature:*
 
-8. As a regular user, I want to see what are the newest community updates.
-9. As a regular user, I want to access game guides suggested by community leaders.
+8- As a regular user, I want to see what are the newest community updates.
+9- As a regular user, I want to access game guides suggested by community leaders.
 
 ### **Gallery**
 
 <details>
-  <summary> (expand) 1. Community images. </summary>
+  <summary> (expand) 1. Community images carousel. </summary>
 
-![Community Images](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/community-images.png)
+
 </details>
 
 The section includes an image carousel build with Bootstrap and customised to fit the apps' purpose and style. The carousel presents real life pictures submitted by the users which adds another layer to the user getting familiar with the team not just in game.
 
 *User stories solved by this feature:*
 
-1. As a new user, I want to know more about the Aunans and their history.
-2. As a new user, I want to know what the community's focus is.
-8. As a regular user, I want to see what are the newest community updates.
+1- As a new user, I want to know more about the Aunans and their history.
+2- As a new user, I want to know what the community's focus is.
+8- As a regular user, I want to see what are the newest community updates.
 
 <details>
   <summary> (expand) 2. Community videos and screenshots.</summary>
 
 ![Community Videos](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/community-videos.png)
+![Community Screenshots](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/community-images.png)
 </details>
 
 The user is presented with videos from the team's past encounters embeded from [Youtube](https://www.youtube.com) and is able to get a sense of what the team's activities are aswell as get a sense of their current and past performance.
@@ -310,8 +311,8 @@ After the videos this section includes a gallery of in-game screenshot submitted
 
 *User stories solved by this feature:*
 
-1. As a new user, I want to know more about the Aunans and their history.
-2. As a new user, I want to know what the community's focus is.
+1- As a new user, I want to know more about the Aunans and their history.
+2- As a new user, I want to know what the community's focus is.
 
 ### **Navigation bar**
 
@@ -325,8 +326,8 @@ The navigation bar was built with Bootstrap and customised for the app's purpose
 
 *User stories solved by this feature:*
 
-6. As a new user, I want to see what the recruitment process is.
-11. As a site owner, I want to attract new members to the community.
+6- As a new user, I want to see what the recruitment process is.
+11- As a site owner, I want to attract new members to the community.
 
 ### **Footer**
 
@@ -340,7 +341,7 @@ The footer is consistent on all pages and provides links which open in new tabs 
 
 *User stories solved by this feature:*
 
-7. As a new user, I want to access their social media platforms.
+7- As a new user, I want to access their social media platforms.
 
 ## **Technologies Used**
 
