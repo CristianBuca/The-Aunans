@@ -717,7 +717,7 @@ Feature | Action | Expected Result | Actual Result
   ![Testing](https://github.com/CristianBuca/The-Aunans/blob/main/docs/testing-of-user-stories/14-1.gif)
 </details>
 
-## **Bugs**
+## Bugs
 
 * **Bug:** Custom CSS for Bootstrap components wasn't being loaded corectly.
 * **Fix:** Move the CSS stylesheet link below the Bootstrap stylesheet link in headers.
@@ -740,7 +740,7 @@ Feature | Action | Expected Result | Actual Result
 * **Bug:** Table on Guild Info page is too wide for small displays.
 * **Fix:** Hide last column on small displays and lower.
 
-## **Deployment**
+## Deployment
 
 The website is hosted and deployed from Github. The steps taken for deployment were:
 
@@ -765,7 +765,7 @@ Steps to follow for cloning this repository:
 
 *Alternatively you can download the repository as ZIP or use [Github Desktop](https://desktop.github.com) to ge the repository on you local machine*
 
-## **Credits**
+## Credits
 
 * Readme table of contents generated with [MarkdDown TOC](https://ecotrust-canada.github.io/markdown-toc/).
 * Hero image was taken from [Wallpapper Flare](https://www.wallpaperflare.com).
@@ -791,7 +791,7 @@ Steps to follow for cloning this repository:
 [TaraRhoseyn](https://github.com/TaraRhoseyn/CI_MS1_CardiffSwimCentre)
 
 
-## **Acknowledgements**
+## Acknowledgements
 
 * Special thanks to my menthor Mo Shami for keeping me on the right path during the development of this project.
 * The Code Institute team (Matt Rudge, Anna Greaves, Brian O'Grady) for all the effort and energy they put into the HTML, CSS and User Centric Front End Development lessons.
