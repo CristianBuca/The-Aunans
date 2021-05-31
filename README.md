@@ -1,8 +1,11 @@
 
 # **The-Aunans**
 
+![The Aunans Logo](https://github.com/CristianBuca/The-Aunans/blob/main/assets/img/aunans-logo.png)
+
+![Responsive Design Mockup](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/mockup/responsive-mockup.png)
+
 - [**The-Aunans**](#--the-aunans--)
-  * [**You can find the deployed website** [**HERE**](https://cristianbuca.github.io/The-Aunans/)](#--you-can-find-the-deployed-website------here----https---cristianbucagithubio-the-aunans--)
 - [**User Experience**](#--user-experience--)
 - [**Strategy**](#--strategy--)
   * [**Project Goals**](#--project-goals--)
@@ -49,6 +52,7 @@
     + [Code Institute colleagues who's work I followed for guidance:](#code-institute-colleagues-who-s-work-i-followed-for-guidance-)
   * [**Acknowledgements**](#--acknowledgements--)
   * [Disclaimer](#disclaimer)
+
 
 ## **You can find the deployed website** [**HERE**](https://cristianbuca.github.io/The-Aunans/)
 
@@ -403,7 +407,7 @@ The 404 Error Page let's the user know he has wondered down the wrong path and p
 
 ## **Validation**
 
-### HTML validation was carried out with [W3 Validator](https://validator.w3.org).
+### HTML validation was carried out with W3 Validator.
 
 #### Home Page HTML Validation found no errors:
 
@@ -425,11 +429,11 @@ The 404 Error Page let's the user know he has wondered down the wrong path and p
 
 ![Gallery Page HTML Validation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/html/404-html-validation.png)
 
-### CSS validation was carried out with [W3 Jigsaw](https://jigsaw.w3.org/css-validator/) and found no errors:
+### CSS validation was carried out with W3 Jigsaw and found no errors:
 
 ![CSS Validation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/css/css-validation.png)
 
-### Accessibility Evaluation was carried out with [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org).
+### Accessibility Evaluation was carried out with WAVE Web Accessibility Evaluation Tool.
 
 #### Home Page Accessibility Evaluation found no errors:
 
