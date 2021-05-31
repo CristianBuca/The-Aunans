@@ -349,6 +349,16 @@ The footer is consistent on all pages and provides links which open in new tabs 
 
 7- As a new user, I want to access their social media platforms.
 
+### **404 Page**
+
+<details>
+  <summary> (expand) 404 Error</summary>
+
+![404 Page](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/404-page.png)
+</details>
+
+The 404 Error Page let's the user know he has wondered down the wrong path and provides a way to get back to quickly go back to the main website.
+
 ## **Technologies Used**
 
 * **[HTML5](https://html.spec.whatwg.org)**
