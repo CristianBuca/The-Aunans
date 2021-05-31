@@ -116,6 +116,24 @@ The colour scheme is based on The Aunans' banner colours and the colours represe
 
 Open Sans and Roboto sans-serif based font families were used to maintain the tone of the game's website.
 
+# **Scope**
+
+## Feature requirements:
+
+* Responsive website for all devices.
+* Navigation bar that collapses on small devices
+* A Landing Page that will provide the main target information to the user trough suggestive images and cross-connections to other World of Warcraft content.
+* A Call to Arms to incentivise users to apply for membership.
+* A modal for the application form.
+* Display of the team's achievements.
+* An activity schedule.
+* Guild's Leadership and History presentation.
+* Member's roster presentation.
+* Links and references to game guides tailored to guild's focus.
+* Gallery of images and videos submitted by current members.
+* A customised 404 Error Page to enable the user to turn back without leaving our domain.
+* Favicon icons.
+
 # **Structure**
 
 ## **Wireframes**
