@@ -47,12 +47,12 @@
     + [12. As a site owner, I want new members to be able to submit an application to join the community.](#12-as-a-site-owner--i-want-new-members-to-be-able-to-submit-an-application-to-join-the-community)
     + [13. As a site owner, I want to convey accurate information to attract the right candidates for our roster.](#13-as-a-site-owner--i-want-to-convey-accurate-information-to-attract-the-right-candidates-for-our-roster)
     + [14. As a site owner, I want members to have access to activity information and maximize involvement.](#14-as-a-site-owner--i-want-members-to-have-access-to-activity-information-and-maximize-involvement)
-  * [**Bugs**](#--bugs--)
-  * [**Deployment**](#--deployment--)
-  * [**Credits**](#--credits--)
-    + [Code Institute colleagues who's work I followed for guidance:](#code-institute-colleagues-who-s-work-i-followed-for-guidance-)
-  * [**Acknowledgements**](#--acknowledgements--)
-  * [Disclaimer](#disclaimer)
+  * [**Bugs**](#bugs)
+  * [**Deployment**](#deployment)
+  * [**Credits**](#credits)
+    + [Code Institute colleagues who's work I followed for guidance:](#code-institute-colleagues-who-s-work-i-followed-for-guidance)
+  * [**Acknowledgements**](#acknowledgements)
+  * [**Disclaimer**](#disclaimer)
 
 
 ## **You can find the deployed website** [**HERE**](https://cristianbuca.github.io/The-Aunans/)
@@ -440,7 +440,7 @@ The 404 Error Page let's the user know he has wondered down the wrong path and p
 ![Gallery Page HTML Validation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/validation/html/404-html-validation.png)
 </details>
 
-### CSS validation was carried out with W3 Jigsaw:
+### CSS validation was carried out with W3 Jigsaw.
 
 <details>
   <summary> (expand) css.style Jigsaw Validation found no errors:</summary>
@@ -717,7 +717,7 @@ Feature | Action | Expected Result | Actual Result
   ![Testing](https://github.com/CristianBuca/The-Aunans/blob/main/docs/testing-of-user-stories/14-1.gif)
 </details>
 
-## Bugs
+## **Bugs**
 
 * **Bug:** Custom CSS for Bootstrap components wasn't being loaded corectly.
 * **Fix:** Move the CSS stylesheet link below the Bootstrap stylesheet link in headers.
@@ -740,7 +740,7 @@ Feature | Action | Expected Result | Actual Result
 * **Bug:** Table on Guild Info page is too wide for small displays.
 * **Fix:** Hide last column on small displays and lower.
 
-## Deployment
+## **Deployment**
 
 The website is hosted and deployed from Github. The steps taken for deployment were:
 
@@ -765,7 +765,7 @@ Steps to follow for cloning this repository:
 
 *Alternatively you can download the repository as ZIP or use [Github Desktop](https://desktop.github.com) to ge the repository on you local machine*
 
-## Credits
+## **Credits**
 
 * Readme table of contents generated with [MarkdDown TOC](https://ecotrust-canada.github.io/markdown-toc/).
 * Hero image was taken from [Wallpapper Flare](https://www.wallpaperflare.com).
@@ -780,7 +780,7 @@ Steps to follow for cloning this repository:
 * Credits for the 404 page background image go to [Blizzard Entertainment](https://www.blizzard.com/en-gb/).
 
 
-### Code Institute colleagues who's work I followed for guidance:
+### **Code Institute colleagues who's work I followed for guidance**
 
 [Stephen Seagrave](https://github.com/nemixu/Milestone1)
 
@@ -791,7 +791,7 @@ Steps to follow for cloning this repository:
 [TaraRhoseyn](https://github.com/TaraRhoseyn/CI_MS1_CardiffSwimCentre)
 
 
-## Acknowledgements
+## **Acknowledgements**
 
 * Special thanks to my menthor Mo Shami for keeping me on the right path during the development of this project.
 * The Code Institute team (Matt Rudge, Anna Greaves, Brian O'Grady) for all the effort and energy they put into the HTML, CSS and User Centric Front End Development lessons.
