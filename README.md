@@ -251,18 +251,23 @@ In this section the user will find further achievement badges earned by the guil
 3. As a new user, I want to see the communities progress and statistics.
 13. As a site owner, I want to convey accurate information to attract the right candidates for our roster.
 
-
-User stories **2, 3, 13** are satisfied by the achievements showcase in this section.
-
 ### **Resources**
 
-#### 1. Strategy guides.
+<details>
+  <summary> (expand) 1. Strategy guides. </summary>
 
 ![Strategy guides](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/strategy-guides.png)
+</details>
+
+The user is presented with strategy video guides to the encounters the team is progressing on provided by [FatBossTV](https://www.youtube.com/channel/UCxPdH3tv8zuGDBBKCEwruGQ) and detailed breakdown of the latest fight logs from those encounters provided by [WarcraftLogs](https://www.warcraftlogs.com).
+This information is useful to the user as it presents the activities the team is currently focusing on and the latest performance data. Using the data suggested by the guild's leaders, the user is able to prepare for upcoming activities and keep pase with the team to progress in these encounters.
 
 *User stories solved by this feature:*
 
-User stories **2, 8, 9** are satisfied by the guides presented in this section.
+2. As a new user, I want to know what the community's focus is.
+8. As a regular user, I want to see what are the newest community updates.
+9. As a regular user, I want to access game guides suggested by community leaders.
+10. As a regular user, I want to see any community plans and activities I can be a part of.
 
 #### 2. Useful Resources.
 
