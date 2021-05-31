@@ -269,14 +269,19 @@ This information is useful to the user as it presents the activities the team is
 9. As a regular user, I want to access game guides suggested by community leaders.
 10. As a regular user, I want to see any community plans and activities I can be a part of.
 
-#### 2. Useful Resources.
+<details>
+  <summary> (expand) 2. Useful Resources. </summary>
 
 ![Useful Resources](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/class-guides.png)
 ![Useful Resources](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/mythic-progression.png)
+</details>
+
+This section provides additional resources suggested by the team's leadership to help them in improving their game performance. The [WoWHead](https://www.wowhead.com) and [Icy Veins](https://www.icy-veins.com) logos open detailed class guides in new tabs and the member's Mythic Plus Dungeon progression table let's the user know the level at which the team is performing.
 
 *User stories solved by this feature:*
 
-User stories **8, 9** are satisfied by the resources in this section.
+8. As a regular user, I want to see what are the newest community updates.
+9. As a regular user, I want to access game guides suggested by community leaders.
 
 ### **Gallery**
 
