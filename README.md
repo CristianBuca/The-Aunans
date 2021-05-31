@@ -29,23 +29,24 @@
   * [**Technologies Used**](#--technologies-used--)
   * [**Validation**](#--validation--)
     + [HTML validation was carried out with W3 Validator.](#html-validation-was-carried-out-with-w3-validator)
-      - [Home Page HTML Validation found no errors:](#home-page-html-validation-found-no-errors-)
-      - [Guild Info Page HTML Validation found no errors:](#guild-info-page-html-validation-found-no-errors-)
-      - [Resources Page HTML Validation found no errors:](#resources-page-html-validation-found-no-errors-)
-      - [Gallery Page HTML Validation found no errors:](#gallery-page-html-validation-found-no-errors-)
-      - [404 Page HTML Validation found no errors:](#404-page-html-validation-found-no-errors-)
-    + [CSS validation was carried out with W3 Jigsaw and found no errors:](#css-validation-was-carried-out-with-w3-jigsaw-and-found-no-errors-)
+    + [CSS validation was carried out with W3 Jigsaw:](#css-validation-was-carried-out-with-w3-jigsaw-)
     + [Accessibility Evaluation was carried out with WAVE Web Accessibility Evaluation Tool.](#accessibility-evaluation-was-carried-out-with-wave-web-accessibility-evaluation-tool)
-      - [Home Page Accessibility Evaluation found no errors:](#home-page-accessibility-evaluation-found-no-errors-)
-      - [Guild Info Page Accessibility Evaluation found no errors:](#guild-info-page-accessibility-evaluation-found-no-errors-)
-      - [Resources Page Accessibility Evaluation found no errors:](#resources-page-accessibility-evaluation-found-no-errors-)
-      - [Gallery Page Accessibility Evaluation found no errors:](#gallery-page-accessibility-evaluation-found-no-errors-)
-      - [404 Page Accessibility Evaluation found no errors:](#404-page-accessibility-evaluation-found-no-errors-)
     + [Performance Tests](#performance-tests)
   * [**Testing of User Stories**](#--testing-of-user-stories--)
     + [1. As a new user, I want to know more about the Aunans and their history.](#1-as-a-new-user--i-want-to-know-more-about-the-aunans-and-their-history)
     + [2. As a new user, I want to know what the community's focus is.](#2-as-a-new-user--i-want-to-know-what-the-community-s-focus-is)
     + [3. As a new user, I want to see the community's progress and statistics.](#3-as-a-new-user--i-want-to-see-the-community-s-progress-and-statistics)
+    + [4. As a new user, I want to get familiar with the community's members.](#4-as-a-new-user--i-want-to-get-familiar-with-the-community-s-members)
+    + [5. As a new user, I want to see when certain activities take place.](#5-as-a-new-user--i-want-to-see-when-certain-activities-take-place)
+    + [6. As a new user, I want to see what the recruitment process is.](#6-as-a-new-user--i-want-to-see-what-the-recruitment-process-is)
+    + [7. As a new user, I want to access their social media platforms.](#7-as-a-new-user--i-want-to-access-their-social-media-platforms)
+    + [8. As a regular user, I want to see what are the newest community updates.](#8-as-a-regular-user--i-want-to-see-what-are-the-newest-community-updates)
+    + [9. As a regular user, I want to access game guides suggested by community leaders.](#9-as-a-regular-user--i-want-to-access-game-guides-suggested-by-community-leaders)
+    + [10. As a regular user, I want to see any community plans and activities I can be a part of.](#10-as-a-regular-user--i-want-to-see-any-community-plans-and-activities-i-can-be-a-part-of)
+    + [11. As a site owner, I want to attract new members to the community.](#11-as-a-site-owner--i-want-to-attract-new-members-to-the-community)
+    + [12. As a site owner, I want new members to be able to submit an application to join the community.](#12-as-a-site-owner--i-want-new-members-to-be-able-to-submit-an-application-to-join-the-community)
+    + [13. As a site owner, I want to convey accurate information to attract the right candidates for our roster.](#13-as-a-site-owner--i-want-to-convey-accurate-information-to-attract-the-right-candidates-for-our-roster)
+    + [14. As a site owner, I want members to have access to activity information and maximize involvement.](#14-as-a-site-owner--i-want-members-to-have-access-to-activity-information-and-maximize-involvement)
   * [**Bugs**](#--bugs--)
   * [**Deployment**](#--deployment--)
   * [**Credits**](#--credits--)
@@ -495,6 +496,7 @@ The 404 Error Page let's the user know he has wondered down the wrong path and p
 
 <details>
   <summary> (expand) Resources Page Lighthouse Test</summary>
+  
 ![Resources Page Lighthouse Test](https://github.com/CristianBuca/The-Aunans/blob//main/docs/validation/lighthouse/resources-lighthouse-test.png)
 </details>
 
