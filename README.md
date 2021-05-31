@@ -72,8 +72,8 @@ The app is designed to consolidate all relevant information related to the commu
 
 1. As a new user, I want to know more about the Aunans and their history.
 2. As a new user, I want to know what the community's focus is.
-3. As a new user, I want to see the communities progress and statistics.
-4. As a new user, I want to get familiar with the communities members.
+3. As a new user, I want to see the community's progress and statistics.
+4. As a new user, I want to get familiar with the community's members.
 5. As a new user, I want to see when certain activities take place.
 6. As a new user, I want to see what the recruitment process is.
 7. As a new user, I want to access their social media platforms.
@@ -157,7 +157,7 @@ On small displays the heroic raid clear achievement is being presented also in a
 *User stories solved by this feature:*
 
 2. As a new user, I want to know what the community's focus is.
-3. As a new user, I want to see the communities progress and statistics.
+3. As a new user, I want to see the community's progress and statistics.
 11. As a site owner, I want to attract new members to the community.
 13. As a site owner, I want to convey accurate information to attract the right candidates for our roster.
 
@@ -173,7 +173,7 @@ In this section the roster breakdown by class and role provides the user with a 
 
 *User stories solved by this feature:*
 
-4. As a new user, I want to get familiar with the communities members.
+4. As a new user, I want to get familiar with the community's members.
 11. As a site owner, I want to attract new members to the community.
 
 <details>
@@ -206,7 +206,7 @@ On small display devices users are presented with the guild leader's character s
 *User stories solved by this feature:*
 
 1. As a new user, I want to know more about the Aunans and their history.
-4. As a new user, I want to get familiar with the communities members.
+4. As a new user, I want to get familiar with the community's members.
 13. As a site owner, I want to convey accurate information to attract the right candidates for our roster.
 
 Getting to know the leaders of the community is an important feature for the users as they are able to compare with their own characters and decide what they will gain by joining.
@@ -224,15 +224,20 @@ Members and visitors are able to see that the guild has a long history in the ga
 
 1. As a new user, I want to know more about the Aunans and their history.
 
-
-
-#### 3. Members roster.
+<details>
+  <summary> (expand) 3. Members roster. </summary>
 
 ![Members roster](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/members-roster.png)
+</details>
+
+This section includes a table with guild members and provides race, class, role and level information on each one. The information conveyed here allows the user to get to know the other members of the community and get a general idea of the team's composition.
 
 *User stories solved by this feature:*
 
-User stories **1, 3, 4** are being satisfied by the member roster.
+1. As a new user, I want to know more about the Aunans and their history.
+4. As a new user, I want to get familiar with the community's members.
+
+
 
 #### 4. Other notable achievements.
 
@@ -372,7 +377,7 @@ Important achievements and rankings section on Homepage shows current progress |
 Roster overviews provide statistics about the guild's composition | Scroll down to the statistics section | To find statistics about the guild | Works as expected
 Members Roster on the Guild Info page provides additional statistics about the guild's composition | Click on the Guild Info link in the navigation menu. Scroll down to the members roster | To find more context for the statistics of the guild | Works as expected |
 
-4. As a new user, I want to get familiar with the communities members.
+4. As a new user, I want to get familiar with the community's members.
 
 Feature | Action | Expected Result | Actual Result
 --- | --- | --- | --- 
