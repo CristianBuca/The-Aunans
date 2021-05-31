@@ -533,7 +533,7 @@ The website is hosted and deployed from Github. The steps taken for deployment w
 7. Clicked **Save**,
 8. Once the page was refreshed I was presented with the link to the live website.
 
---screenshot--
+![Published site](https://github.com/CristianBuca/The-Aunans/blob/main/docs/deployment-screen.png)
 
 Steps to follow for cloning this repository:
 
