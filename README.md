@@ -3,7 +3,7 @@
 
 ![The Aunans Logo](https://github.com/CristianBuca/The-Aunans/blob/main/assets/img/aunans-logo.png)
 
-![Responsive Design Mockup](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/mockup/responsive-mockup.png)
+![Responsive Design Mockup](https://github.com/CristianBuca/The-Aunans/blob/main/docs/validation/mockup/responsive-mockup.png)
 
 - [**The-Aunans**](#--the-aunans--)
 - [**User Experience**](#--user-experience--)
@@ -150,15 +150,15 @@ Open Sans and Roboto sans-serif based font families were used to maintain the to
 
 ## **Wireframes**
 
-[Home Page](https://github.com/CristianBuca/The-Aunans/blob/main/docs/wireframes/Home%20Page.png)
+[Home Page](https://github.com/CristianBuca/The-Aunans/blob/main/docs/wireframes/home-page-v2.png)
 
-[Guild info](https://github.com/CristianBuca/The-Aunans/blob/main/docs/wireframes/Guild%20Info.png)
+[Guild info](https://github.com/CristianBuca/The-Aunans/blob/main/docs/wireframes/guild-info-v2.png)
 
-[Resources](https://github.com/CristianBuca/The-Aunans/blob/main/docs/wireframes/Resources.png)
+[Resources](https://github.com/CristianBuca/The-Aunans/blob/main/docs/wireframes/resource-v2.png)
 
-[Gallery](https://github.com/CristianBuca/The-Aunans/blob/main/docs/wireframes/Gallery%20v2.png)
+[Gallery](https://github.com/CristianBuca/The-Aunans/blob/main/docs/wireframes/gallery-v2.png)
 
-[Application Modal](https://github.com/CristianBuca/The-Aunans/blob/main/docs/wireframes/Join%20Us%20Modal.png)
+[Application Modal](https://github.com/CristianBuca/The-Aunans/blob/main/docs/wireframes/join-us-modal.png)
 
 ## **Features**
 
@@ -506,7 +506,7 @@ The 404 Error Page let's the user know he has wondered down the wrong path and p
 
 <details>
   <summary> (expand) 404 Page Lighthouse Test</summary>
-  
+
 ![404 Page Lighthouse Test](https://github.com/CristianBuca/The-Aunans/blob/main/docs/validation/lighthouse/404-lighthouse-test.png)
 </details>
 
@@ -781,8 +781,11 @@ Steps to follow for cloning this repository:
 ### Code Institute colleagues who's work I followed for guidance:
 
 [Stephen Seagrave](https://github.com/nemixu/Milestone1)
+
 [StephenJ2020](https://github.com/StephenJ2020/CI-MS1-IrishSpiritTours)
+
 [irinatu17](https://github.com/irinatu17/Portishead)
+
 [TaraRhoseyn](https://github.com/TaraRhoseyn/CI_MS1_CardiffSwimCentre)
 
 
