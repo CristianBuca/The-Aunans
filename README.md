@@ -480,7 +480,7 @@ The 404 Error Page let's the user know he has wondered down the wrong path and p
 <details>
   <summary> Expand to see testing process. </summary>
 
-  ![Testing](https://github.com/CristianBuca/The-Aunans/blob/main/docs/testing-of-user-stories/1-1.png)
+  ![Testing](https://github.com/CristianBuca/The-Aunans/blob/main/docs/testing-of-user-stories/1-1.gif)
 </details>
 
 ### 2. As a new user, I want to know what the community's focus is.
