@@ -285,13 +285,19 @@ This section provides additional resources suggested by the team's leadership to
 
 ### **Gallery**
 
-#### 1. Community images.
+<details>
+  <summary> (expand) 1. Community images. </summary>
 
 ![Community Images](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/community-images.png)
+</details>
+
+The section includes an image carousel build with Bootstrap and customised to fit the apps' purpose and style. The carousel presents real life pictures submitted by the users which adds another layer to the user getting familiar with the team not just in game.
 
 *User stories solved by this feature:*
 
-User stories **1, 2** are satisfied by the community screenshot and pictures.
+1. As a new user, I want to know more about the Aunans and their history.
+2. As a new user, I want to know what the community's focus is.
+8. As a regular user, I want to see what are the newest community updates.
 
 #### 2. Community videos.
 
