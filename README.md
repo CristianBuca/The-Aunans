@@ -330,7 +330,17 @@ The navigation bar was built with Bootstrap and customised for the app's purpose
 
 ### **Footer**
 
+<details>
+  <summary> (expand) Simple Footer. </summary>
 
+![Footer](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/footer.png)
+</details>
+
+The footer is consistent on all pages and provides links which open in new tabs to social media platforms used by the team.
+
+*User stories solved by this feature:*
+
+7. As a new user, I want to access their social media platforms.
 
 ## **Technologies Used**
 
