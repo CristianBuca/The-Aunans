@@ -361,30 +361,53 @@ The footer is consistent on all pages and provides links which open in new tabs 
 
 ## **Validation**
 
-### HTML
+### HTML validation was carried out with [W3 Validator](https://validator.w3.org).
+
+#### Home Page HTML Validation found no errors:
 
 ![Home Page HTML Validation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/html/index-html-validation.png)
 
+#### Guild Info Page HTML Validation found no errors:
+
 ![Guild Info Page HTML Validation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/html/guildinfo-html-validation.png)
+
+#### Resources Page HTML Validation found no errors:
 
 ![Resources Page HTML Validation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/html/resources-html-validation.png)
 
+#### Gallery Page HTML Validation found no errors:
+
 ![Gallery Page HTML Validation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/html/gallery-html-validation.png)
 
-### CSS
+#### 404 Page HTML Validation found no errors:
+
+![Gallery Page HTML Validation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/html/404-html-validation.png)
+
+### CSS validation was carried out with [W3 Jigsaw](https://jigsaw.w3.org/css-validator/) and found no errors:
 
 ![CSS Validation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/css/css-validation.png)
 
-### Accessibility Evaluation
+### Accessibility Evaluation was carried out with [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org).
+
+#### Home Page Accessibility Evaluation found no errors:
 
 ![Home Page Accessibility Evaluation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/accessibility/index-wave-eval.png)
 
+#### Guild Info Page Accessibility Evaluation found no errors:
+
 ![Guild Info Page Accessibility Evaluation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/accessibility/guildinfo-wave-eval.png)
 
+#### Resources Page Accessibility Evaluation found no errors:
 
 ![Resources Page Accessibility Evaluation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/accessibility/resources-wave-eval.png)
 
+#### Gallery Page Accessibility Evaluation found no errors:
+
 ![Gallery Page Accessibility Evaluation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/accessibility/gallery-wave-eval.png)
+
+#### 404 Page Accessibility Evaluation found no errors:
+
+![404 Page Accessibility Evaluation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/accessibility/404-wave-eval.png)
 
 ### Performance Tests
 
@@ -394,8 +417,9 @@ The footer is consistent on all pages and provides links which open in new tabs 
 
 ![Resources Page Lighthouse Test](https://github.com/CristianBuca/The-Aunans/blob//main/docs/Validation/Lighthouse/resources-lighthouse-test.png)
 
-
 ![Gallery Page Lighthouse Test](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/Lighthouse/gallery-lighthouse-test.png)
+
+![404 Page Lighthouse Test](https://github.com/CristianBuca/The-Aunans/blob/main/docs/Validation/Lighthouse/404-lighthouse-test.png)
 
 
 ## **Testing of User Stories**
@@ -531,7 +555,7 @@ The website is hosted and deployed from Github. The steps taken for deployment w
 5. Selected the **Main Branch** from the drop-down menu under **Source**,
 6. Selected the **/(root)** folder where my **index.html** was located,
 7. Clicked **Save**,
-8. Once the page was refreshed I was presented with the link to the live website.
+8. Once the page was refreshed I was presented with the link to the live website as seen in the image below:
 
 ![Published site](https://github.com/CristianBuca/The-Aunans/blob/main/docs/deployment-screen.png)
 
