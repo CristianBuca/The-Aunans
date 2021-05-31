@@ -209,15 +209,22 @@ On small display devices users are presented with the guild leader's character s
 4. As a new user, I want to get familiar with the communities members.
 13. As a site owner, I want to convey accurate information to attract the right candidates for our roster.
 
-Getting to know the leaders of the community is an important feature for the users as they are able to compare wit their own characters and decide what they will gain by joining.
+Getting to know the leaders of the community is an important feature for the users as they are able to compare with their own characters and decide what they will gain by joining.
 
-#### 2. History.
+<details>
+  <summary> (expand) 2. History.</summary>
 
 ![History](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/history.png)
+</details>
+
+The History section provides information about the guild's past. On small screens the information is restricted to the community's inception. On larger screens additional details related to each expansion become available to the user.
+Members and visitors are able to see that the guild has a long history in the game and it persevered trough multiple expansions which is a crucial selling point for those that seek stability in an everchanging envirnment.
 
 *User stories solved by this feature:*
 
-User story **1** is satisfied by the *History* in this section.
+1. As a new user, I want to know more about the Aunans and their history.
+
+
 
 #### 3. Members roster.
 
