@@ -478,9 +478,9 @@ The 404 Error Page let's the user know he has wondered down the wrong path and p
 | Image Gallery and Community Videos sections on Gallery page | Click on Gallery link in the navigation menu. Scroll trough the sections | To find images and videos from the community | Works as expected |
 
 <details>
-  <summary> Expand to see testing process </summary>
+  <summary> Expand to see testing process. </summary>
 
-    ![Testing](https://github.com/CristianBuca/The-Aunans/blob/main/docs/testing-of-user-stories/1-1.gif)
+  ![Testing](https://github.com/CristianBuca/The-Aunans/blob/main/docs/testing-of-user-stories/1-1.png)
 </details>
 
 ### 2. As a new user, I want to know what the community's focus is.
@@ -495,7 +495,7 @@ The 404 Error Page let's the user know he has wondered down the wrong path and p
 <details>
   <summary> Expand to see testing process </summary>
 
-    ![Testing](https://github.com/CristianBuca/The-Aunans/blob/main/docs/testing-of-user-stories)
+  ![Testing](https://github.com/CristianBuca/The-Aunans/blob/main/docs/testing-of-user-stories)
 </details>
 
 ### 3. As a new user, I want to see the community's progress and statistics.
@@ -509,7 +509,7 @@ Members Roster on the Guild Info page provides additional statistics about the g
 <details>
   <summary> Expand to see testing process </summary>
 
-    ![Testing](https://github.com/CristianBuca/The-Aunans/blob/main/docs/testing-of-user-stories)
+  ![Testing](https://github.com/CristianBuca/The-Aunans/blob/main/docs/testing-of-user-stories)
 </details>
 
 4. As a new user, I want to get familiar with the community's members.
@@ -522,7 +522,7 @@ Members Roster section in the Guild Info page list the memmbers of the guild, th
 <details>
   <summary> Expand to see testing process </summary>
 
-    ![Testing](https://github.com/CristianBuca/The-Aunans/blob/main/docs/testing-of-user-stories)
+  ![Testing](https://github.com/CristianBuca/The-Aunans/blob/main/docs/testing-of-user-stories)
 </details>
 
 5. As a new user, I want to see when certain activities take place.
@@ -534,7 +534,7 @@ Raiding Schedule at the bottom of Homepage | Scroll down to the activities sched
 <details>
   <summary> Expand to see testing process </summary>
 
-    ![Testing](https://github.com/CristianBuca/The-Aunans/blob/main/docs/testing-of-user-stories)
+  ![Testing](https://github.com/CristianBuca/The-Aunans/blob/main/docs/testing-of-user-stories)
 </details>
 
 6. As a new user, I want to see what the recruitment process is.
@@ -547,7 +547,7 @@ The raiding schedule and attendance requirements provide information about the r
 <details>
   <summary> Expand to see testing process </summary>
 
-    ![Testing](https://github.com/CristianBuca/The-Aunans/blob/main/docs/testing-of-user-stories)
+  ![Testing](https://github.com/CristianBuca/The-Aunans/blob/main/docs/testing-of-user-stories)
 </details>
 
 7. As a new user, I want to access their social media platforms.
@@ -559,7 +559,7 @@ The footer on each page contains links to guild social media | Scroll to the bot
 <details>
   <summary> Expand to see testing process </summary>
 
-    ![Testing](https://github.com/CristianBuca/The-Aunans/blob/main/docs/testing-of-user-stories)
+  ![Testing](https://github.com/CristianBuca/The-Aunans/blob/main/docs/testing-of-user-stories)
 </details>
 
 8. As a regular user, I want to see what are the newest community updates.
@@ -572,7 +572,7 @@ Battle logs on the Resources page provides latest combat breakdowns| Click on th
 <details>
   <summary> Expand to see testing process </summary>
 
-    ![Testing](https://github.com/CristianBuca/The-Aunans/blob/main/docs/testing-of-user-stories)
+  ![Testing](https://github.com/CristianBuca/The-Aunans/blob/main/docs/testing-of-user-stories)
 </details>
 
 9. As a regular user, I want to access game guides suggested by community leaders.
@@ -585,7 +585,7 @@ Class guides on the Resources page provides links to usefull class guides | Clic
 <details>
   <summary> Expand to see testing process </summary>
 
-    ![Testing](https://github.com/CristianBuca/The-Aunans/blob/main/docs/testing-of-user-stories)
+  ![Testing](https://github.com/CristianBuca/The-Aunans/blob/main/docs/testing-of-user-stories)
 </details>
 
 10. As a regular user, I want to see any community plans and activities I can be a part of.
@@ -597,7 +597,7 @@ Raiding schedule on Landing page provides info about organised events member can
 <details>
   <summary> Expand to see testing process </summary>
 
-    ![Testing](https://github.com/CristianBuca/The-Aunans/blob/main/docs/testing-of-user-stories)
+  ![Testing](https://github.com/CristianBuca/The-Aunans/blob/main/docs/testing-of-user-stories)
 </details>
 
 11. As a site owner, I want to attract new members to the community.
@@ -609,7 +609,7 @@ Rankings and most important achievemets on the Homepage serve to attract new mem
 <details>
   <summary> Expand to see testing process </summary>
 
-    ![Testing](https://github.com/CristianBuca/The-Aunans/blob/main/docs/testing-of-user-stories)
+  ![Testing](https://github.com/CristianBuca/The-Aunans/blob/main/docs/testing-of-user-stories)
 </details>
 
 12. As a site owner, I want new members to be able to submit an application to join the community.
@@ -621,7 +621,7 @@ Inspiring faction Hero Image and call to arms button serve in attracting new mem
 <details>
   <summary> Expand to see testing process </summary>
 
-    ![Testing](https://github.com/CristianBuca/The-Aunans/blob/main/docs/testing-of-user-stories)
+  ![Testing](https://github.com/CristianBuca/The-Aunans/blob/main/docs/testing-of-user-stories)
 </details>
 
 13. As a site owner, I want to convey accurate information to attract the right candidates for our roster.
@@ -635,7 +635,7 @@ Other achievements section on the Guild Info page | Click on the Guild Info link
 <details>
   <summary> Expand to see testing process </summary>
 
-    ![Testing](https://github.com/CristianBuca/The-Aunans/blob/main/docs/testing-of-user-stories)
+  ![Testing](https://github.com/CristianBuca/The-Aunans/blob/main/docs/testing-of-user-stories)
 </details>
 
 14. As a site owner, I want members to have access to activity information and maximize involvement.
@@ -647,7 +647,7 @@ Feature | Action | Expected Result | Actual Result
 <details>
   <summary> Expand to see testing process </summary>
 
-    ![Testing](https://github.com/CristianBuca/The-Aunans/blob/main/docs/testing-of-user-stories)
+  ![Testing](https://github.com/CristianBuca/The-Aunans/blob/main/docs/testing-of-user-stories)
 </details>
 
 ## **Bugs**
