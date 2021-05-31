@@ -237,13 +237,20 @@ This section includes a table with guild members and provides race, class, role 
 1. As a new user, I want to know more about the Aunans and their history.
 4. As a new user, I want to get familiar with the community's members.
 
-
-
-#### 4. Other notable achievements.
+<details>
+  <summary> (expand) 4. Other notable achievements. </summary>
 
 ![Other Achievements](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/other-achievements.png)
+</details>
+
+In this section the user will find further achievement badges earned by the guild to expand on the main achievements presented on the landing page. This provides valuable information to what type of content the team is focusing on and their progress. Other gamers that share the same interests within the game will be more inclined to join the guild.
 
 *User stories solved by this feature:*
+
+2. As a new user, I want to know what the community's focus is.
+3. As a new user, I want to see the communities progress and statistics.
+13. As a site owner, I want to convey accurate information to attract the right candidates for our roster.
+
 
 User stories **2, 3, 13** are satisfied by the achievements showcase in this section.
 
