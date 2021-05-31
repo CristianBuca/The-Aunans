@@ -756,7 +756,7 @@ Steps to follow for cloning this repository:
 * Hero image was taken from [Wallpapper Flare](https://www.wallpaperflare.com).
 * Landing page GIF was taken from [DarkLegacyComics issue #635](https://www.darklegacycomics.com).
 * Achievements widget provided by [WoWProgress](https://www.wowprogress.com).
-* Achievements banners, role breakdown graphs, members roster sourced from [World of Warcraft Armory](https://worldofwarcraft.com).
+* Achievements banners, role breakdown graphs, members roster icons and player profile pictures sourced from [World of Warcraft Armory](https://worldofwarcraft.com).
 * Progression rankings provided by [RaiderIO](https://raider.io).
 * Embeded videos from [FatbossTV Youtube Channel](https://www.youtube.com/c/FatbossTV/featured).
 * Boss logs provided by [Warcraft Logs](https://www.warcraftlogs.com).
