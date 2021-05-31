@@ -299,25 +299,38 @@ The section includes an image carousel build with Bootstrap and customised to fi
 2. As a new user, I want to know what the community's focus is.
 8. As a regular user, I want to see what are the newest community updates.
 
-#### 2. Community videos.
+<details>
+  <summary> (expand) 2. Community videos and screenshots.</summary>
 
 ![Community Videos](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/community-videos.png)
+</details>
+
+The user is presented with videos from the team's past encounters embeded from [Youtube](https://www.youtube.com) and is able to get a sense of what the team's activities are aswell as get a sense of their current and past performance.
+After the videos this section includes a gallery of in-game screenshot submitted by members. The gallery's design was inspired by the Code Institute practical lesson [Love Running](https://cristianbuca.github.io/Love-Running/gallery.html).
 
 *User stories solved by this feature:*
 
-User stories **1, 2** are satisfied by the community videos.
+1. As a new user, I want to know more about the Aunans and their history.
+2. As a new user, I want to know what the community's focus is.
 
 ### **Navigation bar**
 
-![Navigation Menu](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/nav-menu.png)
+<details>
+  <summary> (expand) Responsive navigation. </summary>
 
-For ease of navigation on mobile devices especially, the navbar is fixed at the top of the screen and includes a button that enables application submission which is tied to the user stories **6, 11**.
+![Navigation Menu](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/nav-menu.png)
+</details>
+
+The navigation bar was built with Bootstrap and customised for the app's purpose. It is fully responsive to different screen widths and fixed to the top of the page to enable users to quickly navigate trough the pages. On medium size screens and higher, the Call to Arms button is displayed enabling users to access the guild' application form.
+
+*User stories solved by this feature:*
+
+6. As a new user, I want to see what the recruitment process is.
+11. As a site owner, I want to attract new members to the community.
 
 ### **Footer**
 
-![Footer](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/footer.png)
 
-The footer includes links to the guild's social media platforms and satisfies user story **7**.
 
 ## **Technologies Used**
 
