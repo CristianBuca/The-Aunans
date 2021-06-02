@@ -196,6 +196,10 @@ p {
 }
 
 .classLinks {
+    padding-bottom: 5%;
+}
+
+.mythicTable {
     background-color: #0E174F;
     background-image: url("../img/class-guide-bk.jpg");
     background-repeat: no-repeat;
@@ -203,10 +207,6 @@ p {
     background-position: center center;
     background-size: cover;
     position: relative;
-}
-
-.classLinks img {
-    float: inline-start;
 }
 
 iframe {
@@ -220,16 +220,20 @@ iframe {
     border-color: #BA0C0C;
     border-radius: 50%;
     padding: 15px;
-    /* background-color:rgba(0, 0, 0, 0.5); */
-    height: 200px;
-    width: 200px;
+    width: 35%;
 }
 
 .wowheadLink-text {
     width: 60%;
-    float: right;
+    float: left;
     clear: both;
+    text-align: right;
 }
+
+.wowheadLink-text h2 {
+    color: #BA0C0C;
+}
+
 
 .icyveinsLink {
     border-style: double;
@@ -237,12 +241,25 @@ iframe {
     border-color: #163E88;
     border-radius: 50%;
     padding: 15px;
-    /* background-color:rgba(0, 0, 0, 0.5); */
-    height: 200px;
-    width: 200px;
+    width: 35%;
+}
+
+.icyveinsLink-text {
+    width: 60%;
+    float: right;
+    clear: both;
+    text-align: left;
+}
+
+.icyveinsLink-text h2 {
+    color: #163E88;
 }
 
 /* Table Style */
+
+.mythicTable {
+    border-radius: 10px;
+}
 
 .table {
     color: inherit;
