@@ -295,7 +295,6 @@ This information is useful to the user as it presents the activities the team is
   <summary> (expand) 2. Useful Resources. </summary>
 
 ![Useful Resources](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/class-guides.png)
-![Useful Resources](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/mythic-progression.png)
 </details>
 
 This section provides additional resources suggested by the team's leadership to help them in improving their game performance. The [WoWHead](https://www.wowhead.com) and [Icy Veins](https://www.icy-veins.com) logos open detailed class guides in new tabs and the member's Mythic Plus Dungeon progression table let's the user know the level at which the team is performing.
