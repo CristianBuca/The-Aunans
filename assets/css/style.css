@@ -222,8 +222,8 @@ iframe {
     text-align: right;
 }
 
-.wowheadLink-text h2 strong {
-    color: #BA0C0C;
+.wowheadLink-text h2 {
+   color: #f81616;
 }
 
 .icyveinsLink {
@@ -242,8 +242,8 @@ iframe {
     text-align: left;
 }
 
-.icyveinsLink-text h2 strong {
-    color: #163E88;
+.icyveinsLink-text h2 {
+    color: #1a5dda;
 }
 
 /* Table Style */
