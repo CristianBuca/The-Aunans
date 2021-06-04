@@ -222,7 +222,7 @@ iframe {
     text-align: right;
 }
 
-.wowheadLink-text h2 {
+.wowheadLink-text h2 strong {
     color: #BA0C0C;
 }
 
@@ -242,7 +242,7 @@ iframe {
     text-align: left;
 }
 
-.icyveinsLink-text h2 {
+.icyveinsLink-text h2 strong {
     color: #163E88;
 }
 
