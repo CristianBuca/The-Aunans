@@ -390,7 +390,7 @@ The 404 Error Page let's the user know he has wondered down the wrong path and p
 * **[Favicon.io](https://favicon.io)** For creating the favicon.
 * **[Colormind](http://colormind.io)** Color scheme generator.
 
-## **Validation**
+## **Testing**
 
 ### HTML validation was carried out with W3 Validator.
 
@@ -464,7 +464,7 @@ The 404 Error Page let's the user know he has wondered down the wrong path and p
 ![404 Page Accessibility Evaluation](https://github.com/CristianBuca/The-Aunans/blob/main/docs/validation/accessibility/404-wave-eval.png)
 </details>
 
-### Performance Tests
+### Performance Tests using Chrome Lighthouse DevTools.
 
 <details>
   <summary> (expand) Home Page Lighthouse Test</summary>
@@ -495,6 +495,16 @@ The 404 Error Page let's the user know he has wondered down the wrong path and p
 
 ![404 Page Lighthouse Test](https://github.com/CristianBuca/The-Aunans/blob/main/docs/validation/lighthouse/404-lighthouse-test.png)
 </details>
+
+### Devices used for testing: 
+
+* Samsung Galaxy S8,
+* Samsung Tab A 9.7-inch tablet,
+* 17-inch 1080p Laptop (Google Chrome, Mozilla Firefox, Opera, Microsoft Edge browsers),
+* 24-inch 1080p Display (Google Chrome, Mozilla Firefox, Opera, Microsoft Edge browsers),
+* 32-inch 2040p Display (Google Chrome, Mozilla Firefox, Opera, Microsoft Edge browsers).
+
+Application performs as intended on all devices.
 
 
 ## **Testing of User Stories**
