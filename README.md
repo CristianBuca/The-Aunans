@@ -723,6 +723,10 @@ Feature | Action | Expected Result | Actual Result
 * **Fix:** Add "name="..." to input fields.
 * **Bug:** Table on Guild Info page is too wide for small displays.
 * **Fix:** Hide last column on small displays and lower.
+* **Bug:** Colors of class links headers on Resources Page report low contrast on WAVE Accessibility testing.
+* **Fix:** First try: make text bold and retest.
+           Second try: outline text in a different color and maintain the original text colors as to not break continuity of the overall design. -webkit-stroke and shadow style elements did not achieve acceptable outcomes.
+           Final fix: increase color contrast of text.
 
 ## **Deployment**
 
