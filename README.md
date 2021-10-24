@@ -52,7 +52,7 @@ The app is designed to consolidate all relevant information related to the commu
 * Showcase the Aunans Guild to the World of Warcraft community.
 * Showcase Guild achievements.
 * Increase recruitment.
-* Centralise resources and information into a single portal for current members.
+* Centralize resources and information into a single portal for current members.
 
 ## **User Goals**
 
@@ -94,13 +94,13 @@ The app is designed to consolidate all relevant information related to the commu
 The design of the app is consistent with other major apps that a World of Warcraft player might be already familiar with. It provides synergy with web apps like [World of Warcraft Armory](https://worldofwarcraft.com/en-gb/), [WoWProgress](https://www.wowprogress.com/guild/eu/darksorrow/The+Aunans), [Raider IO](https://raider.io) and [Warcraft Logs](https://www.warcraftlogs.com) while funneling information relevant to the site owner's to the user.
 The dark tone with high contrasts was chosen to cater to gamers who by default will gravitate to "night-mode" options on apps as they will usually avoid bright areas due to reflections in their displays while gaming.
 
-The app is fully responsive to different devices and information is contextualised based on screen sizes. On small devices, overload of visual data is avoided by hiding some extra details and information while keeping only the most important features. Landing Page displays only heroic achievement, Leadership Section only displays the guild leader and History Section provides brief history of the guild's early days. Secondary achievements on Guild Info Page are readuced from 6+2 achievements on large screens to 4+3 on medium screens to 2 on small screens. On larger devices aditional content populates it's features like a comic strip on Landing Page and aditional Achievemnt banners; Guild Info Page shows First Officer's avatar also and History Section will have further breakdown of the guild's past for every game expansion.
+The app is fully responsive to different devices and information is contextualized based on screen sizes. On small devices, overload of visual data is avoided by hiding some extra details and information while keeping only the most important features. Landing Page displays only heroic achievement, Leadership Section only displays the guild leader and History Section provides brief history of the guild's early days. Secondary achievements on Guild Info Page are reduced from 6+2 achievements on large screens to 4+3 on medium screens to 2 on small screens. On larger devices additional content populates it's features like a comic strip on Landing Page and additional Achievement banners; Guild Info Page shows First Officer's avatar also and History Section will have further breakdown of the guild's past for every game expansion.
 
-Sections on all pages were implemented using Bootrap grid thus columns re-arrange based on the width of the device the user is using to maximise the use of screen realty and provide a better user experience.
+Sections on all pages were implemented using BootStrap grid thus columns re-arrange based on the width of the device the user is using to maximize the use of screen realty and provide a better user experience.
 
 ### **Colour Scheme**
 
-The colour scheme is based on The Aunans' banner colours and the colours representive of the faction they belong to.
+The colour scheme is based on The Aunans' banner colours and the colours representative of the faction they belong to.
 
 ![Colour scheme sample](https://github.com/CristianBuca/The-Aunans/blob/main/docs/aunans-color-scheme.png)
 
@@ -121,7 +121,7 @@ Open Sans and Roboto sans-serif based font families were used to maintain the to
 * Responsive website for all devices.
 * Navigation bar that collapses on small devices
 * A Landing Page that will provide the main target information to the user trough suggestive images and cross-connections to other World of Warcraft content.
-* A Call to Arms to incentivise users to apply for membership.
+* A Call to Arms to incentivize users to apply for membership.
 * A modal for the application form.
 * Display of the team's achievements.
 * An activity schedule.
@@ -129,7 +129,7 @@ Open Sans and Roboto sans-serif based font families were used to maintain the to
 * Member's roster presentation.
 * Links and references to game guides tailored to guild's focus.
 * Gallery of images and videos submitted by current members.
-* A customised 404 Error Page to enable the user to turn back without leaving our domain.
+* A customized 404 Error Page to enable the user to turn back without leaving our domain.
 * Favicon icons.
 
 # **Structure**
@@ -183,7 +183,7 @@ On small displays the heroic raid clear achievement is being presented also in a
 11- As a site owner, I want to attract new members to the community.
 13- As a site owner, I want to convey accurate information to attract the right candidates for our roster.
 
-The user stories are being satisfied by the guild's most important achievements presented in this section. The user will be able to determine that the guild's focus is progressing in the latest raids on higher dificulties and those with similar interests can make an informed decision and apply to join the community.
+The user stories are being satisfied by the guild's most important achievements presented in this section. The user will be able to determine that the guild's focus is progressing in the latest raids on higher difficulties and those with similar interests can make an informed decision and apply to join the community.
 
 <details>
   <summary> (expand) 3. Statistics. </summary>
@@ -240,7 +240,7 @@ Getting to know the leaders of the community is an important feature for the use
 </details>
 
 The History section provides information about the guild's past. On small screens the information is restricted to the community's inception. On larger screens additional details related to each expansion become available to the user.
-Members and visitors are able to see that the guild has a long history in the game and it persevered trough multiple expansions which is a crucial selling point for those that seek stability in an everchanging envirnment.
+Members and visitors are able to see that the guild has a long history in the game and it persevered trough multiple expansions which is a crucial selling point for those that seek stability in an ever changing environment.
 
 *User stories solved by this feature:*
 
@@ -312,7 +312,7 @@ This section provides additional resources suggested by the team's leadership to
 ![Image Carousel](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/carousel.png)
 </details>
 
-The section includes an image carousel build with Bootstrap and customised to fit the apps' purpose and style. The carousel presents real life pictures submitted by the users which adds another layer to the user getting familiar with the team not just in game.
+The section includes an image carousel build with Bootstrap and customized to fit the apps' purpose and style. The carousel presents real life pictures submitted by the users which adds another layer to the user getting familiar with the team not just in game.
 
 *User stories solved by this feature:*
 
@@ -327,7 +327,7 @@ The section includes an image carousel build with Bootstrap and customised to fi
 ![Community Screenshots](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/community-images.png)
 </details>
 
-The user is presented with videos from the team's past encounters embeded from [Youtube](https://www.youtube.com) and is able to get a sense of what the team's activities are aswell as get a sense of their current and past performance.
+The user is presented with videos from the team's past encounters embedded from [Youtube](https://www.youtube.com) and is able to get a sense of what the team's activities are as well as get a sense of their current and past performance.
 After the videos this section includes a gallery of in-game screenshot submitted by members. The gallery's design was inspired by the Code Institute practical lesson [Love Running](https://cristianbuca.github.io/Love-Running/gallery.html).
 
 *User stories solved by this feature:*
@@ -343,7 +343,7 @@ After the videos this section includes a gallery of in-game screenshot submitted
 ![Navigation Menu](https://github.com/CristianBuca/The-Aunans/blob/main/docs/feature-img/nav-menu.png)
 </details>
 
-The navigation bar was built with Bootstrap and customised for the app's purpose. It is fully responsive to different screen widths and fixed to the top of the page to enable users to quickly navigate trough the pages. On medium size screens and higher, the Call to Arms button is displayed enabling users to access the guild' application form.
+The navigation bar was built with Bootstrap and customized for the app's purpose. It is fully responsive to different screen widths and fixed to the top of the page to enable users to quickly navigate trough the pages. On medium size screens and higher, the Call to Arms button is displayed enabling users to access the guild' application form.
 
 *User stories solved by this feature:*
 
@@ -380,7 +380,7 @@ The 404 Error Page let's the user know he has wondered down the wrong path and p
 * **[CSS3](https://www.w3.org/Style/CSS/Overview.en.html)**
 * **[Bootstrap v4.6](https://getbootstrap.com)** Components for the navbar, modal, image carousel, grid system were taken from the Bootstrap library.
 * **[Github](https://github.com)** For storing my repository.
-* **[Github Desktop](https://desktop.github.com)** For managing syncronisations between local and cloud-stored repositories.
+* **[Github Desktop](https://desktop.github.com)** For managing synchronizations between local and cloud-stored repositories.
 * **[Git](https://git-scm.com)** For version control.
 * **[VSCode](https://code.visualstudio.com)** IDE for writing code.
 * **[Font Awesome](https://fontawesome.com)** Provided the icons for social media links.
@@ -549,7 +549,7 @@ Application performs as intended on all devices.
 
 Feature | Action | Expected Result | Actual Result
 --- | --- | --- | ---
-Important achievements and rankings section on Homepage shows current progress | Scroll down to the achievements section | To see achievments and rankings | Works as expected
+Important achievements and rankings section on Homepage shows current progress | Scroll down to the achievements section | To see achievements and rankings | Works as expected
 Roster overviews provide statistics about the guild's composition | Scroll down to the statistics section | To find statistics about the guild | Works as expected
 Members Roster on the Guild Info page provides additional statistics about the guild's composition | Click on the Guild Info link in the navigation menu. Scroll down to the members roster | To find more context for the statistics of the guild | Works as expected |
 
@@ -566,7 +566,7 @@ Members Roster on the Guild Info page provides additional statistics about the g
 Feature | Action | Expected Result | Actual Result
 --- | --- | --- | --- 
 Leadership section on Guild Info page presents the guild master and first officer | Click on the Guild Info link in the navigation menu | To find out who the guild's leader are | Works as expected
-Members Roster section in the Guild Info page list the memmbers of the guild, their class, level and specialisations | Scroll down to the Members Roster section | To find information about other members | Works as expected
+Members Roster section in the Guild Info page list the members of the guild, their class, level and specializations | Scroll down to the Members Roster section | To find information about other members | Works as expected
 
 <details>
   <summary> Expand to see testing process </summary>
@@ -580,7 +580,7 @@ Members Roster section in the Guild Info page list the memmbers of the guild, th
 
 Feature | Action | Expected Result | Actual Result
 --- | --- | --- | --- 
-Raiding Schedule at the bottom of Homepage | Scroll down to the activities schedule | To see what days and time the guild is organising raids | Works as expected
+Raiding Schedule at the bottom of Homepage | Scroll down to the activities schedule | To see what days and time the guild is organizing raids | Works as expected
 
 <details>
   <summary> Expand to see testing process </summary>
@@ -593,7 +593,7 @@ Raiding Schedule at the bottom of Homepage | Scroll down to the activities sched
 Feature | Action | Expected Result | Actual Result
 --- | --- | --- | --- 
 The call to action button on the Landing Page (on small screens) and on the navigation menu (medium screens and up) linking to the application modal provides a way for the user to apply for recruitment | Click on the call to action button, fill in information in the modal | To be able to apply to join the guild | Works as expected
-The raiding schedule and attendance requirements provide information about the recruitment process | Scroll down to view the raiding schedule and attendance requirements | To find more information about the recruitment requirements | Works as exoected
+The raiding schedule and attendance requirements provide information about the recruitment process | Scroll down to view the raiding schedule and attendance requirements | To find more information about the recruitment requirements | Works as expected
 
 <details>
   <summary> Expand to see testing process </summary>
@@ -635,7 +635,7 @@ Battle logs on the Resources page provides latest combat breakdowns| Click on th
 Feature | Action | Expected Result | Actual Result
 --- | --- | --- | --- 
 Strategy guides section on Resources page provides the latest strategy the raid team is pursuing | Click on the link to the Resources page in the navigation menu | To find info the raid leader wishes his team to know about the kill strategies| Works as expected
-Class guides on the Resources page provides links to usefull class guides | Click on the link to the Resources page in the navigation menu. Scroll down to useful resources section | To find class guides | Works as expected
+Class guides on the Resources page provides links to useful class guides | Click on the link to the Resources page in the navigation menu. Scroll down to useful resources section | To find class guides | Works as expected
 
 <details>
   <summary> Expand to see testing process </summary>
@@ -649,7 +649,7 @@ Class guides on the Resources page provides links to usefull class guides | Clic
 
 Feature | Action | Expected Result | Actual Result
 --- | --- | --- | --- 
-Raiding schedule on Landing page provides info about organised events member can join | Scroll down to the activities schedule | To see when organised events take place | Works as expected
+Raiding schedule on Landing page provides info about organized events member can join | Scroll down to the activities schedule | To see when organized events take place | Works as expected
 
 <details>
   <summary> Expand to see testing process </summary>
@@ -661,7 +661,7 @@ Raiding schedule on Landing page provides info about organised events member can
 
 Feature | Action | Expected Result | Actual Result
 --- | --- | --- | --- 
-Rankings and most important achievemets on the Homepage serve to attract new members that share the guild's interest | Scroll down to view the latest achievments and the guild's rank in PVE progression | To showcase the guild's progress and achievments | Works as expected
+Rankings and most important achievements on the Homepage serve to attract new members that share the guild's interest | Scroll down to view the latest achievements and the guild's rank in PVE progression | To showcase the guild's progress and achievements | Works as expected
 
 <details>
   <summary> Expand to see testing process </summary>
@@ -703,7 +703,7 @@ Other achievements section on the Guild Info page | Click on the Guild Info link
 
 Feature | Action | Expected Result | Actual Result
 --- | --- | --- | --- 
-|Raiding schedule on Landing page provides info about organised events member can join | Scroll down to the activities schedule | To present when organised events take place | Works as expected
+|Raiding schedule on Landing page provides info about organized events member can join | Scroll down to the activities schedule | To present when organized events take place | Works as expected
 
 <details>
   <summary> Expand to see testing process </summary>
@@ -713,7 +713,7 @@ Feature | Action | Expected Result | Actual Result
 
 ## **Bugs**
 
-* **Bug:** Custom CSS for Bootstrap components wasn't being loaded corectly.
+* **Bug:** Custom CSS for Bootstrap components wasn't being loaded correctly.
 * **Fix:** Move the CSS stylesheet link below the Bootstrap stylesheet link in headers.
 * **Bug:** Low performance score in Lighthouse tests.
 * **Fix:** Compress and optimise all images for web application.
@@ -766,12 +766,12 @@ Steps to follow for cloning this repository:
 ## **Credits**
 
 * Readme table of contents generated with [MarkdDown TOC](https://ecotrust-canada.github.io/markdown-toc/).
-* Hero image was taken from [Wallpapper Flare](https://www.wallpaperflare.com).
+* Hero image was taken from [Wallpaper Flare](https://www.wallpaperflare.com).
 * Landing page GIF was taken from [DarkLegacyComics issue #635](https://www.darklegacycomics.com).
 * Achievements widget provided by [WoWProgress](https://www.wowprogress.com).
 * Achievements banners, role breakdown graphs, members roster icons and player profile pictures sourced from [World of Warcraft Armory](https://worldofwarcraft.com).
 * Progression rankings provided by [RaiderIO](https://raider.io).
-* Embeded videos from [FatbossTV Youtube Channel](https://www.youtube.com/c/FatbossTV/featured).
+* Embedded videos from [FatbossTV Youtube Channel](https://www.youtube.com/c/FatbossTV/featured).
 * Boss logs provided by [Warcraft Logs](https://www.warcraftlogs.com).
 * Solution to change hamburger toggler color from [StackOverflow](https://stackoverflow.com/questions/42586729/bootstrap-4-change-hamburger-toggler-color).
 * Solution to for variable size images in carousel from [StackOverflow](https://stackoverflow.com/questions/13391566/twitter-bootstrap-carousel-different-height-images-cause-bouncing-arrows).
@@ -791,7 +791,7 @@ Steps to follow for cloning this repository:
 
 ## **Acknowledgements**
 
-* Special thanks to my menthor Mo Shami for keeping me on the right path during the development of this project.
+* Special thanks to my mentor Mo Shami for keeping me on the right path during the development of this project.
 * The Code Institute team (Matt Rudge, Anna Greaves, Brian O'Grady) for all the effort and energy they put into the HTML, CSS and User Centric Front End Development lessons.
 
 ## Disclaimer
